@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20",
- "lead": 7,
+ "updated": "2026-11-22",
+ "lead": 12,
  "stories": [
   {
    "sec": 0,
@@ -13,20 +13,20 @@
   {
    "sec": 0,
    "state": "MS",
-   "title": "The Jackson creator behind Scott Colom's viral Senate ads",
-   "dek": "Ryan Sayles, 27, had never worked a campaign before filming Colom's protein ad, which passed 16 million views per Yahoo News. Colom has credited him; Sayles calls it a team effort, Capital B reports.",
+   "title": "Rejected ballots leave Tougaloo and Jackson State students shut out",
+   "dek": "Hundreds of provisional ballots from the two HBCUs went uncounted, many over county mix-ups on Tougaloo's two-county campus. Hinds County rejected over half of its 2,426, Capital B reports.",
    "source": "Capital B",
-   "date": "Nov 13",
-   "url": "https://capitalbnews.org/ryan-sayles-scott-colom-viral-campaign-ad/"
+   "date": "Nov 20",
+   "url": "https://capitalbnews.org/mississippi-senate-tougaloo-student-voters/"
   },
   {
    "sec": 1,
-   "state": "SC",
-   "title": "The Emanuel Nine Memorial opens beside Mother Emanuel in Charleston",
-   "dek": "Designed by 9/11 memorial architect Michael Arad, it centers on a Fountain of Grace ringed by the victims' names. The foundation has raised about $19.9 million of its $25 million goal, Capital B reports.",
-   "source": "Capital B",
-   "date": "Nov 13",
-   "url": "https://capitalbnews.org/charleston-emanuel-nine-memorial-opening/"
+   "state": "MD",
+   "title": "Black-run food bank feeds thousands as federal cuts hit Prince George's",
+   "dek": "The StoreHouse says it serves about 6,000 families a month. A local pastor ties rising need to federal job losses, citing Capital Area Food Bank data on county hunger, The Washington Informer reports.",
+   "source": "The Washington Informer",
+   "date": "Nov 20",
+   "url": "https://www.washingtoninformer.com/prince-georges-food-insecurity-federal-firings/"
   },
   {
    "sec": 1,
@@ -85,11 +85,11 @@
   },
   {
    "sec": 4,
-   "title": "NAACP report warns AI could widen health gaps for Black patients",
-   "dek": "The NAACP and Sanofi report, drawn from nearly 23,000 community members, says about 3.8 million Black Americans lack home broadband and a third of Black adults expect AI to worsen bias in care.",
-   "source": "The Legacy",
-   "date": "Nov 14",
-   "url": "https://www.legacynewspaper.com/new-naacp-report-warns-ai-could-deepen-health-disparities-in-black-communities/"
+   "title": "U.S. loses its measles-free status as 2026 cases top 5,400",
+   "dek": "PAHO found one chain of spread lasting over a year. The CDC counted 5,412 cases as of Nov. 12, and AP reports 10 deaths, including at least five children, Word In Black reports.",
+   "source": "Word In Black",
+   "date": "Nov 17",
+   "url": "https://wordinblack.com/2026/11/measles-is-spreading-again-children-are-paying-the-price/"
   },
   {
    "sec": 5,
@@ -109,12 +109,11 @@
   },
   {
    "sec": 6,
-   "state": "MD",
-   "title": "Baltimore teens sue after an AI system mistook chips for a gun",
-   "dek": "Four students were handcuffed at Kenwood High in 2025 after an Omnilert alert. The suit names the company, the school district and police, TheGrio reports. The claims are unproven.",
-   "source": "TheGrio",
-   "date": "Nov 17",
-   "url": "https://thegrio.com/2026/11/17/baltimore-teens-sue-omnilert-school-district-false-alert/"
+   "title": "Capital B investigation: data centers flood Black areas without hearings",
+   "dek": "Majority-Black areas are twice as likely to host data centers, and projects with no hearing were approved 80% of the time, per a Harvard tool. Augusta, Ga., got a $2 billion site with no hearing.",
+   "source": "Capital B",
+   "date": "Nov 19",
+   "url": "https://capitalbnews.org/ai-data-centers-black-communities-environmental-racism/"
   },
   {
    "sec": 6,
@@ -154,12 +153,11 @@
   },
   {
    "sec": 8,
-   "state": "CA",
-   "title": "Veronica Burton reflects on the Valkyries' first WNBA title",
-   "dek": "The Most Improved Player won a championship after Game 7 on Halloween, then joined a parade of an estimated 400,000 fans in San Francisco, Andscape reports.",
+   "title": "Hornets guard Sion James sees his high school jersey retired in Georgia",
+   "dek": "Lanier High in Sugar Hill planned to retire his No. 1. Once a three-star recruit, he went from Tulane to Duke to the NBA, where he has played every regular-season game, Andscape reports.",
    "source": "Andscape",
-   "date": "Nov 11",
-   "url": "https://andscape.com/features/veronica-burton-valkyries-wnba-championship-2026-interview-parade/"
+   "date": "Nov 19",
+   "url": "https://andscape.com/features/sion-james-hornets-lanier-high-school-tulane-duke-georgia/"
   },
   {
    "sec": 9,
@@ -287,11 +285,11 @@
   },
   {
    "sec": 16,
-   "title": "Druski becomes the first digital creator to host SNL",
-   "dek": "The comedian hosted the Nov. 7 episode with The Strokes as musical guest. TheGrio reports he is the first digital content creator to host in the show's 52 seasons; Dave Chappelle and Chris Rock dropped in.",
-   "source": "TheGrio",
-   "date": "Nov 8",
-   "url": "https://thegrio.com/2026/11/08/druski-snl-host-first-digital-creator/"
+   "title": "KevOnStage's improv sitcom The Airport lands on Tubi",
+   "dek": "All 10 episodes premiered Nov. 19. Kevin Fredricks leads a cast of more than 45 comedians and creators, including Tabitha Brown, Tony Baker and Spice Adams, That Grape Juice reports.",
+   "source": "That Grape Juice",
+   "date": "Nov 19",
+   "url": "https://thatgrapejuice.net/entertainment/2026/11/tv-trailer-kevonstages-the-airport-improv-comedy-series/"
   },
   {
    "sec": 16,
@@ -305,11 +303,12 @@
   {
    "sec": 0,
    "q": true,
-   "title": "Kenyatta, Torres and Scott among Black LGBTQ winners in the midterms",
-   "dek": "Gaye Magazine's roundup lists a fifth term for Pennsylvania Rep. Malcolm Kenyatta, a fourth for U.S. Rep. Ritchie Torres, both described as gay, and Jaelynn Scott's Washington House win.",
-   "source": "Gaye Magazine",
-   "date": "Nov 11",
-   "url": "https://www.gayemagazine.com/rainbow-wave-realness-meet-the-lgbtq-winners-of-the-2026-midterm-elections/"
+   "state": "GA",
+   "title": "Meet Malik Brown, the Black gay strategist behind Bottoms' win",
+   "dek": "Brown was deputy campaign manager for operations on Keisha Lance Bottoms' run for Georgia governor and earlier served as Atlanta's first director of LGBTQ affairs, GAYE Magazine reports.",
+   "source": "GAYE Magazine",
+   "date": "Nov 15",
+   "url": "https://www.gayemagazine.com/malik-brown-the-black-gay-strategist-who-helped-elect-the-nations-first-black-woman-governor/"
   },
   {
    "sec": 2,
@@ -340,13 +339,13 @@
    "url": "https://www.washingtoninformer.com/behind-mask-musical-world-aids-day/"
   },
   {
-   "sec": 5,
+   "sec": 14,
    "q": true,
-   "title": "Cynthia Erivo will play Afeni Shakur in Universal's Snoop Dogg biopic",
-   "dek": "Universal announced the casting Nov. 4. Erivo, who is openly bisexual, plays Tupac Shakur's mother, a Black Panther and organizer. Craig Brewer directs Snoop, due in theaters Aug. 6, 2027.",
-   "source": "Gaye Magazine",
-   "date": "Nov 11",
-   "url": "https://www.gayemagazine.com/cynthia-erivo-to-play-tupacs-bisexual-mother-afeni-shakur-in-snoop-doggs-biopic/"
+   "title": "Toni Bryce on P-Valley's final season and Black trans visibility",
+   "dek": "Bryce, a Black trans performer, plays house mother Nineveh. The Starz drama's nine-episode final season starts Dec. 4 with two episodes, GAYE Magazine reports.",
+   "source": "GAYE Magazine",
+   "date": "Nov 21",
+   "url": "https://www.gayemagazine.com/toni-bryce-talks-p-valley-season-3-black-trans-visibility-embracing-her-body/"
   }
  ],
  "regional": [
@@ -360,13 +359,13 @@
    "url": "https://www.washingtoninformer.com/nepi-facility-controversy-ivy-city/"
   },
   {
-   "sec": 3,
-   "state": "DC",
-   "title": "D.C.'s O Museum in the Mansion marks 47 years",
-   "dek": "A Nov. 10 gala honored the museum, where Rosa Parks stayed on and off for nearly a decade, and its founder's 76th birthday, with go-go band Sirius Company, The Washington Informer reports.",
-   "source": "The Washington Informer",
-   "date": "Nov 13",
-   "url": "https://www.washingtoninformer.com/o-museum-anniversary-celebration/"
+   "sec": 8,
+   "state": "PA",
+   "title": "Black running clubs turn out for the Philadelphia Marathon",
+   "dek": "Black Girls Run and Black Men Run members are racing and running support stations at the 33rd marathon weekend, which expects nearly 40,000 runners, The Philadelphia Tribune reports.",
+   "source": "The Philadelphia Tribune",
+   "date": "Nov 21",
+   "url": "https://www.phillytrib.com/news/local_news/philadelphia-marathon-showcases-growing-black-running-movement/article_8e500241-e340-4072-ab25-d27ef176daa6.html"
   },
   {
    "sec": 1,
@@ -387,13 +386,13 @@
    "url": "https://www.thecharlottepost.com/news/2026/11/16/local-state/retired-ey-executive-to-lead-raleigh-hbcu-s-reorganization/"
   },
   {
-   "sec": 1,
+   "sec": 2,
    "state": "IN",
-   "title": "Gary releases its derecho report and plans warning sirens",
-   "dek": "The 238-page review of the Aug. 11 storm adds an emergency manager and 10 sirens, and the city asked NIPSCO for a disconnection pause, Capital B Gary reports.",
+   "title": "Gary weighs a U.S. Steel deal tied to a $3 billion mill investment",
+   "dek": "The proposal would erase $99 million in city debt and fund housing and public safety. It needs City Council approval, and one council leader wants an outside consultant first, Capital B Gary reports.",
    "source": "Capital B",
-   "date": "Nov 13",
-   "url": "https://gary.capitalbnews.org/gary-derecho-storm-report-recovery-warning-sirens/"
+   "date": "Nov 20",
+   "url": "https://gary.capitalbnews.org/3-billion-u-s-steel-investment-could-bring-new-benefits-to-gary/"
   },
   {
    "sec": 10,
@@ -432,13 +431,13 @@
    "url": "https://blackpressusa.com/oakland-city-council-extends-ai-data-center-moratorium-for-10-months/"
   },
   {
-   "sec": 1,
+   "sec": 10,
    "state": "WA",
-   "title": "Tukwila's Youth and Law Forum returns for its 36th year",
-   "dek": "The Judge Charles V. Johnson forum covers police encounters, bullying, mental health and online safety, with Erin Jones and Shawn Kemp, The Seattle Medium reports.",
+   "title": "Seattle Black College Expo offers a record $10 million in scholarships",
+   "dek": "More than 40 HBCUs and other schools joined the ninth expo Nov. 14 at Highline College, and some students got on-the-spot admission, The Seattle Medium reports. Washington has no HBCUs.",
    "source": "The Seattle Medium",
-   "date": "Nov 13",
-   "url": "https://seattlemedium.com/youth-law-forum-tukwila-36th-year/"
+   "date": "Nov 19",
+   "url": "https://seattlemedium.com/bringing-hbcus-closer-to-home-seattle-black-college-expo-connects-students-with-opportunity/"
   }
  ],
  "weekly": [
@@ -451,13 +450,21 @@
    "url": "https://thegrio.com/2026/11/18/hakeem-jeffries-wins-democratic-nomination-to-become-first-black-house-speaker/"
   },
   {
-   "sec": 1,
-   "state": "SC",
-   "title": "The Emanuel Nine Memorial opens beside Mother Emanuel in Charleston",
-   "dek": "Designed by 9/11 memorial architect Michael Arad, it centers on a Fountain of Grace ringed by the victims' names. The foundation has raised about $19.9 million of its $25 million goal, Capital B reports.",
+   "sec": 6,
+   "title": "Capital B investigation: data centers flood Black areas without hearings",
+   "dek": "Majority-Black areas are twice as likely to host data centers, and projects with no hearing were approved 80% of the time, per a Harvard tool. Augusta, Ga., got a $2 billion site with no hearing.",
    "source": "Capital B",
-   "date": "Nov 13",
-   "url": "https://capitalbnews.org/charleston-emanuel-nine-memorial-opening/"
+   "date": "Nov 19",
+   "url": "https://capitalbnews.org/ai-data-centers-black-communities-environmental-racism/"
+  },
+  {
+   "sec": 10,
+   "state": "MD",
+   "title": "UMES supporters sue Maryland for $6 billion over HBCU underfunding",
+   "dek": "ForUMES and students allege the state has shortchanged the HBCU land-grant school since 1890. Gov. Moore's office won't discuss the case but says it will keep investing in UMES, AfroTech reports.",
+   "source": "AfroTech",
+   "date": "Nov 19",
+   "url": "https://afrotech.com/state-of-maryland-sued-for-underfunding-its-only-historically-black-university"
   },
   {
    "sec": 12,
@@ -466,14 +473,6 @@
    "source": "BlackPressUSA",
    "date": "Nov 16",
    "url": "https://blackpressusa.com/69th-grammy-nominations/"
-  },
-  {
-   "sec": 13,
-   "title": "Black family wealth fell 25% as U.S. wealth rose, Fed survey shows",
-   "dek": "Median Black family net worth dropped from $49,100 to $36,800 between 2022 and 2025, the only group to fall, per the Federal Reserve survey, The Community Voice reports.",
-   "source": "The Community Voice",
-   "date": "Nov 14",
-   "url": "https://www.communityvoiceks.com/2026/11/14/black-family-wealth-decline-2025/"
   }
  ],
  "monthly": [
