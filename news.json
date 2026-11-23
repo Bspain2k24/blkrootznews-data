@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22",
- "lead": 12,
+ "updated": "2026-11-23",
+ "lead": 0,
  "stories": [
   {
    "sec": 0,
@@ -76,12 +76,11 @@
   },
   {
    "sec": 4,
-   "state": "CA",
-   "title": "Supreme Court leaves California's implicit bias training for doctors in place",
-   "dek": "The justices declined a challenge from Do No Harm and an ophthalmologist, keeping rulings that upheld the 2019 law. Thomas, Alito and Gorsuch wanted to hear it, TheGrio reports.",
-   "source": "TheGrio",
+   "title": "Four governors-elect promised Medicaid expansion. It faces steep hurdles",
+   "dek": "Bottoms in Georgia and winners in Kansas, Texas and Wisconsin ran on it; KFF data says over 1 million could gain coverage. New federal work rules and state legislatures stand in the way.",
+   "source": "KFF Health News via Capital B",
    "date": "Nov 17",
-   "url": "https://thegrio.com/2026/11/17/supreme-court-california-implicit-bias-training/"
+   "url": "https://capitalbnews.org/these-governors-elect-campaigned-on-expanding-medicaid-it-wont-be-easy/"
   },
   {
    "sec": 4,
@@ -125,11 +124,11 @@
   },
   {
    "sec": 7,
-   "title": "Hacker tied to the 2022 GTA VI leak admits Rockstar breach",
-   "dek": "Arion Kurtaj, 21, admitted the hack and others with the Lapsus$ group, GamesRadar+ reports, citing the BBC. Rockstar says recovery cost $5 million. GTA VI launches Nov. 19.",
-   "source": "GamesRadar+",
-   "date": "Nov 16",
-   "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-hacker-who-reportedly-cost-rockstar-usd5-million-pleads-guilty-to-everything/"
+   "title": "GTA VI is out, with Black stars voicing roles and hosting its radio",
+   "dek": "Janelle James hosts and co-wrote an in-game radio show, TLC runs an R&B station and Burna Boy hosts an Afrobeats one in the Nov. 19 release, TheGrio reports.",
+   "source": "TheGrio",
+   "date": "Nov 20",
+   "url": "https://thegrio.com/2026/11/20/gta-vi-is-finally-here-and-filled-with-celebrity-appearances-here-are-some-notable-ones/"
   },
   {
    "sec": 7,
@@ -144,12 +143,12 @@
   },
   {
    "sec": 8,
-   "state": "TX",
-   "title": "Travis Scott-linked firm drops its claim to the Houston Comets name",
-   "dek": "TSTM Holdings withdrew its trademark application Oct. 29, clearing a hurdle for the WNBA team moving to Houston for 2027, TheGrio reports. Why it withdrew has not been disclosed.",
+   "state": "CA",
+   "title": "Kwanza Jones and José Feliciano near a record $750M Sparks purchase",
+   "dek": "Citing Sportico, TheGrio reports the couple is close to buying the WNBA's Los Angeles Sparks from Mark Walter. The deal is not final; it would top the $300 million paid for the Sun.",
    "source": "TheGrio",
    "date": "Nov 19",
-   "url": "https://thegrio.com/2026/11/19/houston-comets-trademark-travis-scott-firm-withdraws/"
+   "url": "https://thegrio.com/2026/11/19/kwanza-jones-jose-feliciano-wnba-los-angeles-sparks-deal/"
   },
   {
    "sec": 8,
@@ -320,13 +319,13 @@
    "url": "https://www.lgbtqnation.com/2026/11/black-gay-conservative-who-claimed-homophobia-were-rare-sues-for-homophobia/"
   },
   {
-   "sec": 1,
+   "sec": 10,
    "q": true,
-   "title": "Black trans women were half of known violent deaths in a new remembrance report",
-   "dek": "Advocates for Trans Equality's report, released before the Nov. 20 Trans Day of Remembrance, honors 62 trans people who died over the past year, 28 of them killed. A4TE says the count is likely incomplete.",
-   "source": "Advocates for Trans Equality",
-   "date": "Nov 18",
-   "url": "https://transequality.org/news/advocates-trans-equality-releases-2026-trans-day-remembrance-report"
+   "title": "Tevon Blair's Vote HBCU keeps student organizing going after the vote",
+   "dek": "The Dillard alum leads Xceleader's nonpartisan Vote HBCU, which runs voter education and campus fellows. GAYE Magazine profiles his mentoring of students, including a Black queer Hampton fellow.",
+   "source": "GAYE Magazine",
+   "date": "Nov 22",
+   "url": "https://www.gayemagazine.com/tevon-blair-is-building-hbcu-political-power-beyond-election-day/"
   },
   {
    "sec": 5,
@@ -395,22 +394,22 @@
    "url": "https://gary.capitalbnews.org/3-billion-u-s-steel-investment-could-bring-new-benefits-to-gary/"
   },
   {
-   "sec": 10,
+   "sec": 2,
    "state": "MO",
-   "title": "Nikole Hannah-Jones talks history and power at WashU",
-   "dek": "Speaking at Graham Chapel in a Black studies lecture series, she discussed the rollback of affirmative action and diversity programs and her work on The 1619 Project, The St. Louis American reports.",
+   "title": "SLU custodians face pay and benefit cuts as cleaning work is outsourced",
+   "dek": "Saint Louis University is laying off 67 custodians and moving the work to HES. SEIU Local 1 says wages drop $1 to $1.50 an hour; SLU cites turnover, The St. Louis American reports.",
    "source": "The St. Louis American",
-   "date": "Nov 15",
-   "url": "https://www.stlamerican.com/news/pulitzer-prize-winning-journalist-nikole-hannah-jones-confronts-history-and-power-during-washu-talk/"
+   "date": "Nov 20",
+   "url": "https://www.stlamerican.com/business/business-news/custodians-face-pay-cuts-under-slu-outsourcing/"
   },
   {
-   "sec": 10,
+   "sec": 0,
    "state": "TX",
-   "title": "Houston ISD's elected board could return by mid-January",
-   "dek": "The state-appointed board says trustees could be ready by mid-January 2027, ending a takeover that began in 2023; TEA has not set a formal end date, the Houston Defender reports.",
+   "title": "Houston council push to write ICE limits into law hits a legal wall",
+   "dek": "Three members want the mayor's limits on police help to ICE made into law, but the city attorney says a state law blocks a vote. The Houston Defender notes the area's 128,000 Black immigrants.",
    "source": "Houston Defender",
-   "date": "Nov 15",
-   "url": "https://defendernetwork.com/news/education/houston-isd-board-transition-to-local-control-can-start-mid-january"
+   "date": "Nov 19",
+   "url": "https://defendernetwork.com/news/local-state/houston-council-codifies-ice-restrictions/"
   },
   {
    "sec": 4,
@@ -422,13 +421,13 @@
    "url": "https://defendernetwork.com/news/local-state/400-days-fifth-ward-awaits-cancer-cluster-epa-report/"
   },
   {
-   "sec": 6,
+   "sec": 0,
    "state": "CA",
-   "title": "Oakland extends its AI data center moratorium to 2027",
-   "dek": "The council voted unanimously to keep the pause until Oct. 5, 2027. Councilmember Carroll Fife cited pollution, noise and water use, Post News Group reports.",
-   "source": "Post News Group via BlackPressUSA",
-   "date": "Nov 15",
-   "url": "https://blackpressusa.com/oakland-city-council-extends-ai-data-center-moratorium-for-10-months/"
+   "title": "Former state Sen. Kevin Murray, who fought racial profiling, dies at 66",
+   "dek": "The ex-Black Caucus chair, who authored a bill on racial profiling and later led Skid Row's Weingart Center, died Nov. 10, California Black Media reports. No cause was disclosed.",
+   "source": "California Black Media via The San Diego Voice & Viewpoint",
+   "date": "Nov 18",
+   "url": "https://sdvoice.info/kevin-murray-california-lawmaker-who-championed-civil-rights-clean-energy-and-urban-renewal-dies-at-66/"
   },
   {
    "sec": 10,
