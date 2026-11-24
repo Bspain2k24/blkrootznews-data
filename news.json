@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "lead": 0,
  "stories": [
   {
@@ -30,12 +30,11 @@
   },
   {
    "sec": 1,
-   "state": "NY",
-   "title": "NYPD disbands the protest unit criticized over BLM marches",
-   "dek": "Mayor Mamdani is replacing the Strategic Response Group with a civilian-led de-escalation division and banning kettling and tear gas at protests, Word In Black reports.",
-   "source": "Word In Black",
-   "date": "Nov 16",
-   "url": "https://wordinblack.com/2026/11/nypd-unit-accused-of-brutalizing-blm-protesters-is-disbanded/"
+   "title": "Navy says it will keep Doris Miller's name on a new aircraft carrier",
+   "dek": "A spokesperson for Acting Navy Secretary Hung Cao told CNN there is no plan to rename CVN-81 after reports it weighed a change. Miller was the first Black American to get the Navy Cross, TheGrio reports.",
+   "source": "TheGrio",
+   "date": "Nov 22",
+   "url": "https://thegrio.com/2026/11/22/navy-keeps-doris-miller-name-aircraft-carrier/"
   },
   {
    "sec": 2,
@@ -47,20 +46,19 @@
   },
   {
    "sec": 2,
-   "title": "Squire co-founder says an investor told him to hire non-Black executives",
-   "dek": "Dave Salvant shared the account at the AfroTech Conference. The barbershop software company was valued at $750 million in 2021, per a company release cited by Black Enterprise.",
+   "title": "Brian Rikuda, a past BET reality show winner, will head the network",
+   "dek": "Rikuda won BET's The Ultimate Hustler in 2005 and rejoined BET in 2022. He will report to OWN president Tina Perry under Skydance's cable restructuring, Black Enterprise reports, citing Deadline.",
    "source": "Black Enterprise",
-   "date": "Nov 16",
-   "url": "https://www.blackenterprise.com/squire-non-black-executives/"
+   "date": "Nov 20",
+   "url": "https://www.blackenterprise.com/brian-rikuda-head-bet/"
   },
   {
    "sec": 3,
-   "state": "GA",
-   "title": "King's handwritten 'I Have a Dream' draft goes on view in Atlanta",
-   "dek": "The final draft is at the National Center for Civil and Human Rights before a Jan. 22 Christie's sale expected near $10 million, benefiting the King Center, TheGrio reports.",
-   "source": "TheGrio",
-   "date": "Nov 16",
-   "url": "https://thegrio.com/2026/11/16/i-have-a-dream-speech-auction/"
+   "title": "Ta-Nehisi Coates unveils Maceo-Lyn Productions with two partners",
+   "dek": "Coates, director Kamilah Forbes and producer Kenyatta Matthews announced the film, TV and theater company, whose slate includes a Basquiat musical with music by John Legend, Black Enterprise reports.",
+   "source": "Black Enterprise",
+   "date": "Nov 22",
+   "url": "https://www.blackenterprise.com/ta-nehisi-coates-maceo-lyn-productions/"
   },
   {
    "sec": 3,
@@ -80,7 +78,12 @@
    "dek": "Bottoms in Georgia and winners in Kansas, Texas and Wisconsin ran on it; KFF data says over 1 million could gain coverage. New federal work rules and state legislatures stand in the way.",
    "source": "KFF Health News via Capital B",
    "date": "Nov 17",
-   "url": "https://capitalbnews.org/these-governors-elect-campaigned-on-expanding-medicaid-it-wont-be-easy/"
+   "url": "https://capitalbnews.org/these-governors-elect-campaigned-on-expanding-medicaid-it-wont-be-easy/",
+   "photo": {
+    "url": "https://images.pexels.com/photos/4386478/pexels-photo-4386478.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "credit": "kaboompics / Pexels",
+    "link": "https://www.pexels.com/photo/4386478/"
+   }
   },
   {
    "sec": 4,
@@ -92,11 +95,12 @@
   },
   {
    "sec": 5,
-   "title": "Floyd Norman, Disney's first Black animator, receives an honorary Oscar",
-   "dek": "Mahershala Ali presented the award to the 91-year-old at the Nov. 15 Governors Awards. Norman joined Disney in 1956 and worked on The Jungle Book, TheGrio reports.",
-   "source": "TheGrio",
-   "date": "Nov 16",
-   "url": "https://thegrio.com/2026/11/16/floyd-norman-honorary-oscar-governors-awards/"
+   "state": "NC",
+   "title": "Aaron Douglas's Harriet Tubman painting sells for $14.4M at Sotheby's",
+   "dek": "Bennett College sold the 1931 work, far above a $2.5M-$3.5M estimate, to fund a women's health initiative. Some students and alumni opposed the sale, Black Enterprise reports.",
+   "source": "Black Enterprise",
+   "date": "Nov 19",
+   "url": "https://www.blackenterprise.com/aaron-douglas-harriet-tubman-sotheby-auction/"
   },
   {
    "sec": 5,
@@ -182,7 +186,12 @@
    "dek": "ForUMES and students allege the state has shortchanged the HBCU land-grant school since 1890. Gov. Moore's office won't discuss the case but says it will keep investing in UMES, AfroTech reports.",
    "source": "AfroTech",
    "date": "Nov 19",
-   "url": "https://afrotech.com/state-of-maryland-sued-for-underfunding-its-only-historically-black-university"
+   "url": "https://afrotech.com/state-of-maryland-sued-for-underfunding-its-only-historically-black-university",
+   "photo": {
+    "url": "https://images.pexels.com/photos/1837726/pexels-photo-1837726.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "credit": "Polona Mitar Osolnik / Pexels",
+    "link": "https://www.pexels.com/photo/interior-view-of-library-1837726/"
+   }
   },
   {
    "sec": 10,
@@ -200,7 +209,12 @@
    "dek": "TSU's minor, funded by an $800,000 Energy Department grant, has about 15 students and could become a major, US Black Engineer reports.",
    "source": "US Black Engineer",
    "date": "Nov 13",
-   "url": "https://www.blackengineer.com/news-2/doe-invests-in-tsu-mining-program/"
+   "url": "https://www.blackengineer.com/news-2/doe-invests-in-tsu-mining-program/",
+   "photo": {
+    "url": "https://images.pexels.com/photos/2986508/pexels-photo-2986508.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "credit": "Ricky Esquivel / Pexels",
+    "link": "https://www.pexels.com/photo/brown-rocks-2986508/"
+   }
   },
   {
    "sec": 11,
@@ -233,7 +247,12 @@
    "dek": "Median Black family net worth dropped from $49,100 to $36,800 between 2022 and 2025, the only group to fall, per the Federal Reserve survey, The Community Voice reports.",
    "source": "The Community Voice",
    "date": "Nov 14",
-   "url": "https://www.communityvoiceks.com/2026/11/14/black-family-wealth-decline-2025/"
+   "url": "https://www.communityvoiceks.com/2026/11/14/black-family-wealth-decline-2025/",
+   "photo": {
+    "url": "https://images.pexels.com/photos/210705/pexels-photo-210705.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "credit": "Pixabay / Pexels",
+    "link": "https://www.pexels.com/photo/banknotes-and-coins-beside-gray-safety-box-210705/"
+   }
   },
   {
    "sec": 13,
@@ -268,11 +287,11 @@
   },
   {
    "sec": 15,
-   "title": "Martine Rose takes over Balenciaga as its first woman creative director",
-   "dek": "Kering named the British-Jamaican designer to lead all of Balenciaga's design starting Nov. 16. Black Enterprise calls her the second Black woman to head a major European luxury house.",
-   "source": "Black Enterprise",
-   "date": "Nov 9",
-   "url": "https://www.blackenterprise.com/martine-rose-history-balenciaga-creative-director/"
+   "title": "Hanifa returns from its pause with an anniversary collection",
+   "dek": "Founder Anifa Mvuemba told TheGrio the brand added outside customer service, new logistics and a manufacturing partner after delayed orders. The new collection launched Nov. 18.",
+   "source": "TheGrio",
+   "date": "Nov 12",
+   "url": "https://thegrio.com/2026/11/12/hanifas-anifa-mvuemba-on-the-power-of-pressing-pause-its-okay-to-stop/"
   },
   {
    "sec": 15,
@@ -288,7 +307,12 @@
    "dek": "All 10 episodes premiered Nov. 19. Kevin Fredricks leads a cast of more than 45 comedians and creators, including Tabitha Brown, Tony Baker and Spice Adams, That Grape Juice reports.",
    "source": "That Grape Juice",
    "date": "Nov 19",
-   "url": "https://thatgrapejuice.net/entertainment/2026/11/tv-trailer-kevonstages-the-airport-improv-comedy-series/"
+   "url": "https://thatgrapejuice.net/entertainment/2026/11/tv-trailer-kevonstages-the-airport-improv-comedy-series/",
+   "photo": {
+    "url": "https://images.pexels.com/photos/2425131/pexels-photo-2425131.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "credit": "Luis Quintero / Pexels",
+    "link": "https://www.pexels.com/photo/2425131/"
+   }
   },
   {
    "sec": 16,
@@ -301,12 +325,20 @@
   },
   {
    "sec": 17,
+   "title": "USDA plan would end SNAP benefits for 6.3 million more people",
+   "dek": "The proposal ends broad-based categorical eligibility; USDA estimates 17% of SNAP households would lose benefits. Nearly 25% of participants are Black. Comments close Dec. 10, Word In Black reports.",
+   "source": "Word In Black",
+   "date": "Nov 11",
+   "url": "https://wordinblack.com/2026/11/usda-proposal-would-end-snap-benefits-for-6-3-million-more-americans/"
+  },
+  {
+   "sec": 17,
    "state": "GA",
-   "title": "Chaka Khan helps open a new Plantbaed Cafe in Georgia's Serenbe",
-   "dek": "The singer and her sister partnered with founder Anne Onyeneho on the organic, plant-based cafe in Chattahoochee Hills, which opened Nov. 3, TheGrio reports.",
-   "source": "TheGrio",
-   "date": "Nov 9",
-   "url": "https://thegrio.com/2026/11/09/chaka-khan-plantbaed-cafe-georgia/"
+   "title": "Thanksgiving food giveaways reach metro Atlanta during Feast Week",
+   "dek": "The Arena at Southlake set food-box giveaways Nov. 23 in downtown Atlanta and Nov. 24 in Morrow, aiming to serve 750-plus residents downtown, before a D-Nice residency, Black Enterprise reports.",
+   "source": "Black Enterprise",
+   "date": "Nov 17",
+   "url": "https://www.blackenterprise.com/d-nice-arena-at-southlake-feast-week/"
   },
   {
    "sec": 0,
@@ -391,13 +423,13 @@
    "url": "https://www.birminghamtimes.com/2026/11/a-fresh-start-new-markets-address-food-access-in-birmingham-and-fairfield/"
   },
   {
-   "sec": 10,
+   "sec": 0,
    "state": "NC",
-   "title": "Retired EY executive will steer St. Augustine's bankruptcy",
-   "dek": "A judge approved Malcomb Coley as chief restructuring officer for the Raleigh HBCU, which lost accreditation in 2025, and set a Jan. 8 plan deadline, The Charlotte Post reports.",
+   "title": "Norman Mitchell, five-term Mecklenburg commissioner, dies at 79",
+   "dek": "Mitchell represented District 2 from 1998 to 2008, pushed health and veteran services and west Charlotte development, and later served as a state ABC commissioner, The Charlotte Post reports.",
    "source": "The Charlotte Post",
-   "date": "Nov 16",
-   "url": "https://www.thecharlottepost.com/news/2026/11/16/local-state/retired-ey-executive-to-lead-raleigh-hbcu-s-reorganization/"
+   "date": "Nov 21",
+   "url": "https://www.thecharlottepost.com/news/2026/11/21/local-state/norman-mitchell-former-mecklenburg-commissioner-dies/"
   },
   {
    "sec": 2,
@@ -427,13 +459,13 @@
    "url": "https://defendernetwork.com/news/local-state/houston-council-codifies-ice-restrictions/"
   },
   {
-   "sec": 4,
+   "sec": 8,
    "state": "TX",
-   "title": "Fifth Ward still waits on an EPA cancer cluster report",
-   "dek": "Residents say the agency has held a risk evaluation of a rail yard site since October 2025. Rep. Christian Menefee wants it released by Dec. 1, the Houston Defender reports.",
+   "title": "Texas Southern fires football coach Cris Dishman after a 3-8 season",
+   "dek": "Dishman went 14-17 in three seasons at the SWAC school and is owed $319,000 for his last contract year. TSU plans a national search, the Houston Defender reports.",
    "source": "Houston Defender",
-   "date": "Nov 16",
-   "url": "https://defendernetwork.com/news/local-state/400-days-fifth-ward-awaits-cancer-cluster-epa-report/"
+   "date": "Nov 23",
+   "url": "https://defendernetwork.com/sports/college-sports/texas-southern-fires-coach-dishman/"
   },
   {
    "sec": 0,
@@ -478,15 +510,25 @@
    "dek": "ForUMES and students allege the state has shortchanged the HBCU land-grant school since 1890. Gov. Moore's office won't discuss the case but says it will keep investing in UMES, AfroTech reports.",
    "source": "AfroTech",
    "date": "Nov 19",
-   "url": "https://afrotech.com/state-of-maryland-sued-for-underfunding-its-only-historically-black-university"
+   "url": "https://afrotech.com/state-of-maryland-sued-for-underfunding-its-only-historically-black-university",
+   "photo": {
+    "url": "https://images.pexels.com/photos/1837726/pexels-photo-1837726.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "credit": "Polona Mitar Osolnik / Pexels",
+    "link": "https://www.pexels.com/photo/interior-view-of-library-1837726/"
+   }
   },
   {
-   "sec": 12,
-   "title": "Grammy nominations: Beyoncé reaches 100 as Leon Thomas earns six",
-   "dek": "Raye leads with 11 nods. Yung Miami got her first and Tems is up for Best R&B Solo Performance. The ceremony airs Feb. 7 on ABC, BlackPressUSA reports.",
-   "source": "BlackPressUSA",
-   "date": "Nov 16",
-   "url": "https://blackpressusa.com/69th-grammy-nominations/"
+   "sec": 4,
+   "title": "Four governors-elect promised Medicaid expansion. It faces steep hurdles",
+   "dek": "Bottoms in Georgia and winners in Kansas, Texas and Wisconsin ran on it; KFF data says over 1 million could gain coverage. New federal work rules and state legislatures stand in the way.",
+   "source": "KFF Health News via Capital B",
+   "date": "Nov 17",
+   "url": "https://capitalbnews.org/these-governors-elect-campaigned-on-expanding-medicaid-it-wont-be-easy/",
+   "photo": {
+    "url": "https://images.pexels.com/photos/4386478/pexels-photo-4386478.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "credit": "kaboompics / Pexels",
+    "link": "https://www.pexels.com/photo/4386478/"
+   }
   }
  ],
  "monthly": [
@@ -525,7 +567,12 @@
    "dek": "Median Black family net worth dropped from $49,100 to $36,800 between 2022 and 2025, the only group to fall, per the Federal Reserve survey, The Community Voice reports.",
    "source": "The Community Voice",
    "date": "Nov 14",
-   "url": "https://www.communityvoiceks.com/2026/11/14/black-family-wealth-decline-2025/"
+   "url": "https://www.communityvoiceks.com/2026/11/14/black-family-wealth-decline-2025/",
+   "photo": {
+    "url": "https://images.pexels.com/photos/210705/pexels-photo-210705.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "credit": "Pixabay / Pexels",
+    "link": "https://www.pexels.com/photo/banknotes-and-coins-beside-gray-safety-box-210705/"
+   }
   }
  ]
 }
