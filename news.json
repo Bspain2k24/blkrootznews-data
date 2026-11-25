@@ -1,14 +1,15 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "lead": 0,
  "stories": [
   {
    "sec": 0,
-   "title": "House Democrats pick Hakeem Jeffries to be the first Black Speaker",
-   "dek": "Jeffries won the caucus nomination 251-11 in a closed-door vote Nov. 18, TheGrio reports. The full House elects its Speaker after the new Congress is sworn in Jan. 3, 2027.",
-   "source": "TheGrio",
-   "date": "Nov 18",
-   "url": "https://thegrio.com/2026/11/18/hakeem-jeffries-wins-democratic-nomination-to-become-first-black-house-speaker/"
+   "state": "GA",
+   "title": "Georgia's first Black agriculture commissioner-elect faces a backlash",
+   "dek": "Democrat Katherine Juhan-Arnold won 53% to 46%. Since then a bakery owner's son posted a racist remark and a farmer petitioned lawmakers to probe her credentials, Capital B reports.",
+   "source": "Capital B",
+   "date": "Nov 23",
+   "url": "https://capitalbnews.org/katherine-juhan-arnold-georgia-agriculture-commissioner/"
   },
   {
    "sec": 0,
@@ -30,19 +31,11 @@
   },
   {
    "sec": 1,
-   "title": "Navy says it will keep Doris Miller's name on a new aircraft carrier",
-   "dek": "A spokesperson for Acting Navy Secretary Hung Cao told CNN there is no plan to rename CVN-81 after reports it weighed a change. Miller was the first Black American to get the Navy Cross, TheGrio reports.",
-   "source": "TheGrio",
-   "date": "Nov 22",
-   "url": "https://thegrio.com/2026/11/22/navy-keeps-doris-miller-name-aircraft-carrier/"
-  },
-  {
-   "sec": 2,
-   "title": "BET president Louis Carr will leave the network after 40 years",
-   "dek": "His last day is Dec. 31. Carr, who led media sales for 25 years before becoming president, said in a memo he chose to chart a new path. No successor is named yet, AfroTech reports.",
+   "title": "Jrue and Lauren Holiday's $5.3M fund sparks $3M more for Black founders",
+   "dek": "Black-owned businesses and Black-led nonprofits backed by the couple's social impact fund have since raised over $3 million in follow-on funding, per the fund, AfroTech reports.",
    "source": "AfroTech",
-   "date": "Nov 17",
-   "url": "https://afrotech.com/bet-president-louis-carr-announces-departure-from-network"
+   "date": "Nov 24",
+   "url": "https://afrotech.com/jhl-social-impact-fund-recipients-go-on-to-raise-3m-in-follow-on-funding"
   },
   {
    "sec": 2,
@@ -50,7 +43,20 @@
    "dek": "Rikuda won BET's The Ultimate Hustler in 2005 and rejoined BET in 2022. He will report to OWN president Tina Perry under Skydance's cable restructuring, Black Enterprise reports, citing Deadline.",
    "source": "Black Enterprise",
    "date": "Nov 20",
-   "url": "https://www.blackenterprise.com/brian-rikuda-head-bet/"
+   "url": "https://www.blackenterprise.com/brian-rikuda-head-bet/",
+   "photo": {
+    "url": "https://images.pexels.com/photos/1870438/pexels-photo-1870438.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "credit": "Nino Souza / Pexels",
+    "link": "https://www.pexels.com/photo/man-standing-on-stage-holding-microphone-1870438/"
+   }
+  },
+  {
+   "sec": 2,
+   "title": "Former Edelman U.S. CEO Lisa Osborne Ross will lead the ELC",
+   "dek": "She becomes president and CEO of The Executive Leadership Council on Jan. 15, 2027, succeeding Michael C. Hyter, who has led it since 2021, Black Enterprise reports.",
+   "source": "Black Enterprise",
+   "date": "Nov 18",
+   "url": "https://www.blackenterprise.com/lisa-osborne-ross-to-become-the-next-president-and-ceo-of-the-executive-leadership-council/"
   },
   {
    "sec": 3,
@@ -58,7 +64,12 @@
    "dek": "Coates, director Kamilah Forbes and producer Kenyatta Matthews announced the film, TV and theater company, whose slate includes a Basquiat musical with music by John Legend, Black Enterprise reports.",
    "source": "Black Enterprise",
    "date": "Nov 22",
-   "url": "https://www.blackenterprise.com/ta-nehisi-coates-maceo-lyn-productions/"
+   "url": "https://www.blackenterprise.com/ta-nehisi-coates-maceo-lyn-productions/",
+   "photo": {
+    "url": "https://images.pexels.com/photos/3045397/pexels-photo-3045397.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "credit": "Kyle Loftus / Pexels",
+    "link": "https://www.pexels.com/photo/man-doing-post-while-taking-on-camera-3045397/"
+   }
   },
   {
    "sec": 3,
@@ -74,24 +85,19 @@
   },
   {
    "sec": 4,
-   "title": "Four governors-elect promised Medicaid expansion. It faces steep hurdles",
-   "dek": "Bottoms in Georgia and winners in Kansas, Texas and Wisconsin ran on it; KFF data says over 1 million could gain coverage. New federal work rules and state legislatures stand in the way.",
+   "title": "Shot at 14, a teen spent over 475 days in a St. Louis hospital with nowhere to go",
+   "dek": "Jaloni, now 18, stayed long past medical need while in state custody. Missouri spent over $64.7 million in five years boarding kids in hospitals, KFF Health News reports via Capital B.",
    "source": "KFF Health News via Capital B",
-   "date": "Nov 17",
-   "url": "https://capitalbnews.org/these-governors-elect-campaigned-on-expanding-medicaid-it-wont-be-easy/",
-   "photo": {
-    "url": "https://images.pexels.com/photos/4386478/pexels-photo-4386478.jpeg?auto=compress&cs=tinysrgb&w=1200",
-    "credit": "kaboompics / Pexels",
-    "link": "https://www.pexels.com/photo/4386478/"
-   }
+   "date": "Nov 18",
+   "url": "https://capitalbnews.org/teenage-gun-violence-survivor-st-louis-foster-care/"
   },
   {
    "sec": 4,
-   "title": "U.S. loses its measles-free status as 2026 cases top 5,400",
-   "dek": "PAHO found one chain of spread lasting over a year. The CDC counted 5,412 cases as of Nov. 12, and AP reports 10 deaths, including at least five children, Word In Black reports.",
-   "source": "Word In Black",
-   "date": "Nov 17",
-   "url": "https://wordinblack.com/2026/11/measles-is-spreading-again-children-are-paying-the-price/"
+   "title": "Federal cuts halt Alzheimer's research focused on Black Americans",
+   "dek": "NIH ended a four-year Pittsburgh study in the Hill and Homewood near its final year, and an Emory study on racism's effects needs $2.3 million to finish, TheGrio reports.",
+   "source": "TheGrio",
+   "date": "Nov 23",
+   "url": "https://thegrio.com/2026/11/23/black-alzheimers-research-funding-cuts/"
   },
   {
    "sec": 5,
@@ -100,7 +106,12 @@
    "dek": "Bennett College sold the 1931 work, far above a $2.5M-$3.5M estimate, to fund a women's health initiative. Some students and alumni opposed the sale, Black Enterprise reports.",
    "source": "Black Enterprise",
    "date": "Nov 19",
-   "url": "https://www.blackenterprise.com/aaron-douglas-harriet-tubman-sotheby-auction/"
+   "url": "https://www.blackenterprise.com/aaron-douglas-harriet-tubman-sotheby-auction/",
+   "photo": {
+    "url": "https://images.pexels.com/photos/14638945/pexels-photo-14638945.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "credit": "Wellington Silva / Pexels",
+    "link": "https://www.pexels.com/photo/people-taking-photos-of-the-painting-hanging-on-the-wall-14638945/"
+   }
   },
   {
    "sec": 5,
@@ -112,19 +123,20 @@
   },
   {
    "sec": 6,
+   "state": "FL",
+   "title": "Eatonville data center drops its promise of free home Wi-Fi",
+   "dek": "HostDime's CEO says free home Wi-Fi for the historic Black town is no longer sustainable; it now offers public Wi-Fi, and promised scholarships are unclear, Capital B reports.",
+   "source": "Capital B",
+   "date": "Nov 23",
+   "url": "https://capitalbnews.org/data-centers-eatonville-florida-hungerford/"
+  },
+  {
+   "sec": 6,
    "title": "Capital B investigation: data centers flood Black areas without hearings",
    "dek": "Majority-Black areas are twice as likely to host data centers, and projects with no hearing were approved 80% of the time, per a Harvard tool. Augusta, Ga., got a $2 billion site with no hearing.",
    "source": "Capital B",
    "date": "Nov 19",
    "url": "https://capitalbnews.org/ai-data-centers-black-communities-environmental-racism/"
-  },
-  {
-   "sec": 6,
-   "title": "Serena Williams launches Starfire Ventures to back AI-era startups",
-   "dek": "Williams and Beth Ferreira's new New York firm seeks $200 million for seed to Series A tech and AI-native companies, AfroTech reports. Serena Ventures raised $111 million in 2022.",
-   "source": "AfroTech",
-   "date": "Nov 17",
-   "url": "https://afrotech.com/serena-williams-and-beth-ferreira-launch-starfire-ventures"
   },
   {
    "sec": 7,
@@ -136,14 +148,11 @@
   },
   {
    "sec": 7,
-   "title": "Most women gamers surveyed plan to play GTA VI within a month of launch",
-   "dek": "In a Censuswide poll of 2,523 U.S. women gamers for ACE.com, 59% said they expect to play within a month of the Nov. 19 release. The survey measures plans, not sales.",
-   "source": "WFTV",
-   "date": "Nov 10",
-   "img": "img-gta",
-   "alt": "Grand Theft Auto VI promotional artwork of a woman in a green cropped jersey by a resort pool",
-   "credit": "Rockstar Games",
-   "url": "https://www.wftv.com/news/local/six-10-women-gamers-plan-play-grand-theft-auto-vi-within-month/JV7YKFB4WZAXNPMSCPQUECUX6Y/"
+   "title": "An unreleased D'Angelo song plays on GTA VI's radio",
+   "dek": "His estate says Kamikazi, which he approved in 2024, airs on the game's Worldwide FM station and will be released outside the game, with a vinyl edition planned, TheGrio reports.",
+   "source": "TheGrio",
+   "date": "Nov 23",
+   "url": "https://thegrio.com/2026/11/23/dangelo-kamikazi-grand-theft-auto-vi-unreleased-song/"
   },
   {
    "sec": 8,
@@ -195,12 +204,12 @@
   },
   {
    "sec": 10,
-   "state": "GA",
-   "title": "Morehouse student arrested as campus sexual violence concerns grow",
-   "dek": "President F. DuBois Bowman said campus police arrested a student Nov. 13 after an alleged off-campus assault. It is unclear if it ties to a Spelman student's October report, Capital B reports.",
-   "source": "Capital B",
-   "date": "Nov 17",
-   "url": "https://capitalbnews.org/morehouse-student-arrested-amid-growing-concerns-over-campus-sexual-violence/"
+   "state": "DC",
+   "title": "Kickstarter CEO Everette Taylor gets an endowed chair at Howard",
+   "dek": "Taylor becomes Howard's John H. Johnson Endowed Chair and Professor of Entrepreneurship on Jan. 4, leading workshops, a lecture series and student advising, Black Enterprise reports.",
+   "source": "Black Enterprise",
+   "date": "Nov 18",
+   "url": "https://www.blackenterprise.com/kickstarter-ceo-everette-taylor-named-endowed-chair-at-howard-university/"
   },
   {
    "sec": 11,
@@ -231,7 +240,12 @@
    "dek": "Cudi announced Visions in the Night on social media, with artwork due Nov. 30 and the tracklist Dec. 7. Collaborators and track count are not yet known, That Grape Juice reports.",
    "source": "That Grape Juice",
    "date": "Nov 19",
-   "url": "https://thatgrapejuice.net/2026/11/kid-cudi-announces-new-dance-album-visions-in-the-night-under-rager-alias/"
+   "url": "https://thatgrapejuice.net/2026/11/kid-cudi-announces-new-dance-album-visions-in-the-night-under-rager-alias/",
+   "photo": {
+    "url": "https://images.pexels.com/photos/1190298/pexels-photo-1190298.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "credit": "Wendy Wei / Pexels",
+    "link": "https://www.pexels.com/photo/purple-fireworks-effect-1190298/"
+   }
   },
   {
    "sec": 12,
@@ -239,7 +253,12 @@
    "dek": "Raye leads with 11 nods. Yung Miami got her first and Tems is up for Best R&B Solo Performance. The ceremony airs Feb. 7 on ABC, BlackPressUSA reports.",
    "source": "BlackPressUSA",
    "date": "Nov 16",
-   "url": "https://blackpressusa.com/69th-grammy-nominations/"
+   "url": "https://blackpressusa.com/69th-grammy-nominations/",
+   "photo": {
+    "url": "https://images.pexels.com/photos/1763068/pexels-photo-1763068.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "credit": "Sebastian Ervi / Pexels",
+    "link": "https://www.pexels.com/photo/people-standing-on-stage-in-front-of-crowd-1763068/"
+   }
   },
   {
    "sec": 13,
@@ -256,12 +275,11 @@
   },
   {
    "sec": 13,
-   "state": "GA",
-   "title": "Georgia's first Black insurance commissioner targets ZIP code pricing",
-   "dek": "Commissioner-elect Keisha Sean Waites wants to ban auto rates based on credit scores or ZIP codes and says the industry is already pushing back, Capital B Atlanta reports.",
-   "source": "Capital B",
-   "date": "Nov 18",
-   "url": "https://atlanta.capitalbnews.org/keisha-sean-waites-georgia-insurance-commissioner-insurance-rates/"
+   "title": "Greenwood Bank closes all accounts and points members to DreamFi",
+   "dek": "Cards and transfers stopped after Nov. 19. Deposits stay at Coastal Community Bank until members move them or get a check; Ben Crump's DreamFi is the new partner, AfroTech reports.",
+   "source": "AfroTech",
+   "date": "Nov 23",
+   "url": "https://afrotech.com/greenwood-bank-announced-all-accounts-would-close-nov-19"
   },
   {
    "sec": 14,
@@ -291,7 +309,12 @@
    "dek": "Founder Anifa Mvuemba told TheGrio the brand added outside customer service, new logistics and a manufacturing partner after delayed orders. The new collection launched Nov. 18.",
    "source": "TheGrio",
    "date": "Nov 12",
-   "url": "https://thegrio.com/2026/11/12/hanifas-anifa-mvuemba-on-the-power-of-pressing-pause-its-okay-to-stop/"
+   "url": "https://thegrio.com/2026/11/12/hanifas-anifa-mvuemba-on-the-power-of-pressing-pause-its-okay-to-stop/",
+   "photo": {
+    "url": "https://images.pexels.com/photos/39548/pexels-photo-39548.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "credit": "Pixabay / Pexels",
+    "link": "https://www.pexels.com/photo/brass-needle-through-red-cloth-button-39548/"
+   }
   },
   {
    "sec": 15,
@@ -303,6 +326,9 @@
   },
   {
    "sec": 16,
+   "img": "img-kevonstage",
+   "alt": "A scene from The Airport: a smiling pilot in uniform in the cockpit",
+   "credit": "The Airport / Tubi",
    "title": "KevOnStage's improv sitcom The Airport lands on Tubi",
    "dek": "All 10 episodes premiered Nov. 19. Kevin Fredricks leads a cast of more than 45 comedians and creators, including Tabitha Brown, Tony Baker and Spice Adams, That Grape Juice reports.",
    "source": "That Grape Juice",
@@ -316,20 +342,16 @@
   },
   {
    "sec": 16,
-   "state": "IL",
-   "title": "Janelle James takes her first hourlong special to Netflix",
-   "dek": "The Abbott Elementary star taped How Romantic at Chicago's Vic Theatre, close to where she started doing stand-up in Champaign, WBEZ reports. She hosts the Critics Choice Awards in January.",
-   "source": "WBEZ",
-   "date": "Nov 10",
-   "url": "https://wbez.org/comedy/2026/11/10/janelle-james-comedy-netflix-abbott-elementary-champaign"
-  },
-  {
-   "sec": 17,
-   "title": "USDA plan would end SNAP benefits for 6.3 million more people",
-   "dek": "The proposal ends broad-based categorical eligibility; USDA estimates 17% of SNAP households would lose benefits. Nearly 25% of participants are Black. Comments close Dec. 10, Word In Black reports.",
-   "source": "Word In Black",
-   "date": "Nov 11",
-   "url": "https://wordinblack.com/2026/11/usda-proposal-would-end-snap-benefits-for-6-3-million-more-americans/"
+   "title": "Druski's megachurch comedy Collect & Praise hits Netflix Dec. 1",
+   "dek": "The semi-scripted series, built from his viral pastor sketch, casts Druski as a money-hungry megachurch pastor and Mike Epps as his deacon. The trailer arrived Nov. 18, Complex reports.",
+   "source": "Complex",
+   "date": "Nov 18",
+   "url": "https://www.complex.com/pop-culture/a/jaelaniturnerwilliams/druski-collect-praise-trailer-netflix",
+   "photo": {
+    "url": "https://images.pexels.com/photos/2925312/pexels-photo-2925312.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "credit": "cottonbro studio / Pexels",
+    "link": "https://www.pexels.com/photo/man-holding-film-camera-2925312/"
+   }
   },
   {
    "sec": 17,
@@ -339,6 +361,15 @@
    "source": "Black Enterprise",
    "date": "Nov 17",
    "url": "https://www.blackenterprise.com/d-nice-arena-at-southlake-feast-week/"
+  },
+  {
+   "sec": 17,
+   "state": "TN",
+   "title": "A South Memphis pastor's organic farm grows into a food hub",
+   "dek": "The Rev. Marlon Foster's Green Leaf Learning Farm, the area's only USDA-certified organic farm, anchors cooking classes, a cafe and an Organic Market that opened Oct. 30, Capital B reports.",
+   "source": "Capital B",
+   "date": "Nov 24",
+   "url": "https://capitalbnews.org/south-memphis-farm-food-community/"
   },
   {
    "sec": 0,
@@ -396,13 +427,13 @@
  ],
  "regional": [
   {
-   "sec": 4,
+   "sec": 1,
    "state": "DC",
-   "title": "Ivy City residents keep up their fight against a sealant plant",
-   "dek": "Empower D.C. and neighbors cite odors and health fears at NEPI. City and EPA tests in 2023 and 2024 found no notable health effect, and the owner defends the plant, The Washington Informer reports.",
+   "title": "D.C. sues a developer over 36 vacant Ward 8 apartments",
+   "dek": "AG Brian Schwalb says the owner got city-backed loans to rehab the buildings and keep 18 units affordable but fixed none; 94 code violations remain, The Washington Informer reports.",
    "source": "The Washington Informer",
-   "date": "Nov 17",
-   "url": "https://www.washingtoninformer.com/nepi-facility-controversy-ivy-city/"
+   "date": "Nov 23",
+   "url": "https://www.washingtoninformer.com/dc-developer-affordable-housing-lawsuit/"
   },
   {
    "sec": 8,
@@ -519,16 +550,11 @@
   },
   {
    "sec": 4,
-   "title": "Four governors-elect promised Medicaid expansion. It faces steep hurdles",
-   "dek": "Bottoms in Georgia and winners in Kansas, Texas and Wisconsin ran on it; KFF data says over 1 million could gain coverage. New federal work rules and state legislatures stand in the way.",
+   "title": "Shot at 14, a teen spent over 475 days in a St. Louis hospital with nowhere to go",
+   "dek": "Jaloni, now 18, stayed long past medical need while in state custody. Missouri spent over $64.7 million in five years boarding kids in hospitals, KFF Health News reports via Capital B.",
    "source": "KFF Health News via Capital B",
-   "date": "Nov 17",
-   "url": "https://capitalbnews.org/these-governors-elect-campaigned-on-expanding-medicaid-it-wont-be-easy/",
-   "photo": {
-    "url": "https://images.pexels.com/photos/4386478/pexels-photo-4386478.jpeg?auto=compress&cs=tinysrgb&w=1200",
-    "credit": "kaboompics / Pexels",
-    "link": "https://www.pexels.com/photo/4386478/"
-   }
+   "date": "Nov 18",
+   "url": "https://capitalbnews.org/teenage-gun-violence-survivor-st-louis-foster-care/"
   }
  ],
  "monthly": [
