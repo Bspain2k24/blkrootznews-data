@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25",
- "lead": 0,
+ "updated": "2026-11-26",
+ "lead": 6,
  "stories": [
   {
    "sec": 0,
@@ -52,11 +52,26 @@
   },
   {
    "sec": 2,
-   "title": "Former Edelman U.S. CEO Lisa Osborne Ross will lead the ELC",
-   "dek": "She becomes president and CEO of The Executive Leadership Council on Jan. 15, 2027, succeeding Michael C. Hyter, who has led it since 2021, Black Enterprise reports.",
-   "source": "Black Enterprise",
-   "date": "Nov 18",
-   "url": "https://www.blackenterprise.com/lisa-osborne-ross-to-become-the-next-president-and-ceo-of-the-executive-leadership-council/"
+   "state": "VT",
+   "title": "Vermont nursing home to pay $450K over racist abuse of Black workers",
+   "dek": "Elderwood at Burlington settled an EEOC suit for six Black nurses and aides who faced slurs and assaults from residents. The companies deny the claims and admit no liability, TheGrio reports.",
+   "source": "TheGrio",
+   "date": "Nov 25",
+   "url": "https://thegrio.com/2026/11/25/elderwood-racial-harassment-lawsuit-settlement/"
+  },
+  {
+   "sec": 3,
+   "state": "LA",
+   "title": "ESSENCE Fest will leave New Orleans in 2027 after 33 years",
+   "dek": "Owner Sundial Media Group says talks on a multiyear deal failed. Mayor Helena Moreno cited unpaid local vendors and says a Black-led festival will take its place, That Grape Juice reports.",
+   "source": "That Grape Juice",
+   "date": "Nov 25",
+   "url": "https://thatgrapejuice.net/2026/11/essence-festival-of-culture-is-leaving-new-orleans-after-33-years/",
+   "photo": {
+    "url": "https://images.unsplash.com/photo-1568693059993-a239b9cd4957?auto=format&fit=crop&w=1200&q=80",
+    "credit": "Rosie Kerr / Unsplash",
+    "link": "https://unsplash.com/photos/brown-and-gray-3-story-building-nUkxLPE5Fto"
+   }
   },
   {
    "sec": 3,
@@ -75,24 +90,12 @@
    }
   },
   {
-   "sec": 3,
-   "q": true,
-   "img": "img-lena-fields",
-   "alt": "Brooklynn Fields and Lena Waithe sit side by side in an empty, purple-lit movie theater",
-   "credit": "@iamsuedewilliams",
-   "title": "Lena Waithe's reading series spotlights Black masc-of-center writer Brooklynn Fields",
-   "dek": "Waithe's monthly Around the Table series stages the LET OUT, a feature script co-written by Fields, free in Los Angeles on Nov. 19, GAYE Magazine reports.",
-   "source": "GAYE Magazine",
-   "date": "Nov 19",
-   "url": "https://www.gayemagazine.com/lena-waithe-makes-room-for-a-more-black-masc-hollywood-featuring-brooklynn-fields-as-a-writer-to-watch/"
-  },
-  {
    "sec": 4,
-   "title": "Shot at 14, a teen spent over 475 days in a St. Louis hospital with nowhere to go",
-   "dek": "Jaloni, now 18, stayed long past medical need while in state custody. Missouri spent over $64.7 million in five years boarding kids in hospitals, KFF Health News reports via Capital B.",
-   "source": "KFF Health News via Capital B",
-   "date": "Nov 18",
-   "url": "https://capitalbnews.org/teenage-gun-violence-survivor-st-louis-foster-care/"
+   "title": "Obama urges incoming House Democrats to push further on health care",
+   "dek": "At a Nov. 18 meeting, Obama said restoring expired ACA subsidies alone is not enough. Black HealthCare.gov sign-ups fell from about 2.7 million to 1.2 million, per figures Word In Black cites.",
+   "source": "Word In Black",
+   "date": "Nov 20",
+   "url": "https://wordinblack.com/2026/11/obama-jeffries-and-democrats-must-push-further-on-healthcare-in-2027/"
   },
   {
    "sec": 4,
@@ -126,11 +129,11 @@
   },
   {
    "sec": 5,
-   "title": "MOBO founder Kanya King honored with a stone at her childhood school",
-   "dek": "A MOBO Paving the Way stone was unveiled at Queens Park Community School in London, 30 years after the first MOBO Awards, with Emeli Sandé attending, That Grape Juice reports.",
-   "source": "That Grape Juice",
-   "date": "Nov 18",
-   "url": "https://thatgrapejuice.net/2026/11/mobo-founder-kanya-king-cbe-honored-with-special-tribute-at-childhood-school/"
+   "title": "Playbill apologizes for a George Floyd musical casting notice",
+   "dek": "Playbill pulled the job-board listing and says it is reviewing approvals after criticism, including from Viola Davis. Producer Busted Broadway calls the show satire, Black Enterprise reports.",
+   "source": "Black Enterprise",
+   "date": "Nov 24",
+   "url": "https://www.blackenterprise.com/viola-davis-george-floyd-musical-playbill-apologizes/"
   },
   {
    "sec": 6,
@@ -166,7 +169,12 @@
    "dek": "His estate says Kamikazi, which he approved in 2024, airs on the game's Worldwide FM station and will be released outside the game, with a vinyl edition planned, TheGrio reports.",
    "source": "TheGrio",
    "date": "Nov 23",
-   "url": "https://thegrio.com/2026/11/23/dangelo-kamikazi-grand-theft-auto-vi-unreleased-song/"
+   "url": "https://thegrio.com/2026/11/23/dangelo-kamikazi-grand-theft-auto-vi-unreleased-song/",
+   "photo": {
+    "url": "https://images.unsplash.com/photo-1526327760257-75f515c74478?auto=format&fit=crop&w=1200&q=80",
+    "credit": "Luana De Marco / Unsplash",
+    "link": "https://unsplash.com/photos/black-and-gray-vinyl-player-PF1l1F1hzoU"
+   }
   },
   {
    "sec": 8,
@@ -175,7 +183,12 @@
    "dek": "Citing Sportico, TheGrio reports the couple is close to buying the WNBA's Los Angeles Sparks from Mark Walter. The deal is not final; it would top the $300 million paid for the Sun.",
    "source": "TheGrio",
    "date": "Nov 19",
-   "url": "https://thegrio.com/2026/11/19/kwanza-jones-jose-feliciano-wnba-los-angeles-sparks-deal/"
+   "url": "https://thegrio.com/2026/11/19/kwanza-jones-jose-feliciano-wnba-los-angeles-sparks-deal/",
+   "photo": {
+    "url": "https://images.unsplash.com/photo-1559369064-c4d65141e408?auto=format&fit=crop&w=1200&q=80",
+    "credit": "Patrick Schöpflin / Unsplash",
+    "link": "https://unsplash.com/photos/basketball-court-hEQpoeUuJXA"
+   }
   },
   {
    "sec": 8,
@@ -183,7 +196,12 @@
    "dek": "Lanier High in Sugar Hill planned to retire his No. 1. Once a three-star recruit, he went from Tulane to Duke to the NBA, where he has played every regular-season game, Andscape reports.",
    "source": "Andscape",
    "date": "Nov 19",
-   "url": "https://andscape.com/features/sion-james-hornets-lanier-high-school-tulane-duke-georgia/"
+   "url": "https://andscape.com/features/sion-james-hornets-lanier-high-school-tulane-duke-georgia/",
+   "photo": {
+    "url": "https://images.unsplash.com/photo-1669046239665-5dcfc2ecc468?auto=format&fit=crop&w=1200&q=80",
+    "credit": "Jorgen Hendriksen / Unsplash",
+    "link": "https://unsplash.com/photos/a-basketball-hoop-in-a-large-room-8yLDFM3P9Cs"
+   }
   },
   {
    "sec": 9,
@@ -191,7 +209,12 @@
    "dek": "The Golden Globe winner finished at the Auguste Escoffier School of Culinary Arts on Nov. 15 and called the experience therapeutic, TheGrio reports.",
    "source": "TheGrio",
    "date": "Nov 16",
-   "url": "https://thegrio.com/2026/11/16/teyana-taylor-graduates-culinary-school/"
+   "url": "https://thegrio.com/2026/11/16/teyana-taylor-graduates-culinary-school/",
+   "photo": {
+    "url": "https://images.unsplash.com/photo-1690983329845-638ec321647d?auto=format&fit=crop&w=1200&q=80",
+    "credit": "Sergey Kotenev / Unsplash",
+    "link": "https://unsplash.com/photos/a-cutting-board-with-steaks-and-a-knife-on-it-cEJGctX_DgI"
+   }
   },
   {
    "sec": 9,
@@ -218,12 +241,12 @@
   },
   {
    "sec": 10,
-   "state": "DC",
-   "title": "Kickstarter CEO Everette Taylor gets an endowed chair at Howard",
-   "dek": "Taylor becomes Howard's John H. Johnson Endowed Chair and Professor of Entrepreneurship on Jan. 4, leading workshops, a lecture series and student advising, Black Enterprise reports.",
-   "source": "Black Enterprise",
-   "date": "Nov 18",
-   "url": "https://www.blackenterprise.com/kickstarter-ceo-everette-taylor-named-endowed-chair-at-howard-university/"
+   "state": "GA",
+   "title": "Morehouse orders an outside review of how it handles sexual misconduct",
+   "dek": "After campus police arrested a student on a rape allegation Nov. 13, President F. DuBois Bowman announced a Title IX review and a task force on student safety, Capital B Atlanta reports.",
+   "source": "Capital B",
+   "date": "Nov 20",
+   "url": "https://atlanta.capitalbnews.org/morehouse-student-arrested-amid-growing-concerns-over-campus-sexual-violence/"
   },
   {
    "sec": 11,
@@ -246,7 +269,12 @@
    "dek": "The former NSF engineering program director joined the National Academy of Education and the Academy of Public Administration, US Black Engineer reports.",
    "source": "US Black Engineer",
    "date": "Nov 15",
-   "url": "https://www.blackengineer.com/news-2/dr-james-l-moore-iii-elected-to-two-national-academies/"
+   "url": "https://www.blackengineer.com/news-2/dr-james-l-moore-iii-elected-to-two-national-academies/",
+   "photo": {
+    "url": "https://images.unsplash.com/photo-1741795822895-efe35bad6761?auto=format&fit=crop&w=1200&q=80",
+    "credit": "Zoshua Colah / Unsplash",
+    "link": "https://unsplash.com/photos/rows-of-books-in-a-well-stocked-library-bz4vI87iRQc"
+   }
   },
   {
    "sec": 12,
@@ -332,11 +360,16 @@
   },
   {
    "sec": 15,
-   "title": "Tyra Banks says Beverly Johnson once offered her a room in her home",
-   "dek": "On HOT 97, Banks said the pioneering Black supermodel offered her a free place to stay early in her career so she would be looked after in a tough industry, TheGrio reports.",
-   "source": "TheGrio",
-   "date": "Nov 19",
-   "url": "https://thegrio.com/2026/11/19/tyra-banks-beverly-johnson-modeling-support/"
+   "title": "Consumer Reports finds trace lead in lipsticks, including a Black-owned brand",
+   "dek": "All 24 lipsticks tested passed the FDA draft limit of 10 ppm, but Mented Cosmetics' semi-matte averaged 1.64 ppm, above Washington state's 1.0 ppm cap, Word In Black reports.",
+   "source": "Word In Black",
+   "date": "Nov 25",
+   "url": "https://wordinblack.com/2026/11/consumer-reports-finds-there-is-still-a-little-lead-in-lipstick/",
+   "photo": {
+    "url": "https://images.unsplash.com/photo-1625093742435-6fa192b6fb10?auto=format&fit=crop&w=1200&q=80",
+    "credit": "Evangeline Sarney / Unsplash",
+    "link": "https://unsplash.com/photos/red-lipstick-on-white-surface-NnsqpLjiA94"
+   }
   },
   {
    "sec": 16,
@@ -383,7 +416,12 @@
    "dek": "The Rev. Marlon Foster's Green Leaf Learning Farm, the area's only USDA-certified organic farm, anchors cooking classes, a cafe and an Organic Market that opened Oct. 30, Capital B reports.",
    "source": "Capital B",
    "date": "Nov 24",
-   "url": "https://capitalbnews.org/south-memphis-farm-food-community/"
+   "url": "https://capitalbnews.org/south-memphis-farm-food-community/",
+   "photo": {
+    "url": "https://images.unsplash.com/photo-1788122290883-6587385ffb8c?auto=format&fit=crop&w=1200&q=80",
+    "credit": "Bernd Dittrich / Unsplash",
+    "link": "https://unsplash.com/photos/parallel-rows-of-green-crops-f8Yj2_dxZJk"
+   }
   },
   {
    "sec": 0,
@@ -393,7 +431,12 @@
    "dek": "Brown was deputy campaign manager for operations on Keisha Lance Bottoms' run for Georgia governor and earlier served as Atlanta's first director of LGBTQ affairs, GAYE Magazine reports.",
    "source": "GAYE Magazine",
    "date": "Nov 15",
-   "url": "https://www.gayemagazine.com/malik-brown-the-black-gay-strategist-who-helped-elect-the-nations-first-black-woman-governor/"
+   "url": "https://www.gayemagazine.com/malik-brown-the-black-gay-strategist-who-helped-elect-the-nations-first-black-woman-governor/",
+   "photo": {
+    "url": "https://images.unsplash.com/photo-1611106014123-092d7642f560?auto=format&fit=crop&w=1200&q=80",
+    "credit": "ibuki Tsubo / Unsplash",
+    "link": "https://unsplash.com/photos/aerial-view-of-city-buildings-during-daytime-XV81dRUMzpo"
+   }
   },
   {
    "sec": 2,
@@ -414,17 +457,18 @@
    "url": "https://www.gayemagazine.com/tevon-blair-is-building-hbcu-political-power-beyond-election-day/"
   },
   {
-   "sec": 5,
+   "sec": 12,
    "q": true,
-   "img": "img-behind-mask",
-   "alt": "The cast and friends of Behind the Mask pose together in front of a Fabulous Friends of E. Lynn Harris backdrop",
-   "credit": "The Washington Informer",
-   "state": "DC",
-   "title": "E. Lynn Harris musical Behind the Mask comes to the Howard Theatre",
-   "dek": "Based on Harris's novels of Black gay love, the show runs Nov. 30 and Dec. 1 around World AIDS Day, with songs by Ashford and Simpson, The Washington Informer reports.",
-   "source": "The Washington Informer",
-   "date": "Nov 11",
-   "url": "https://www.washingtoninformer.com/behind-mask-musical-world-aids-day/"
+   "title": "Pandora launches AGENDA, an R&B station centering queer artists",
+   "dek": "Built by SiriusXM/Pandora R&B programming head Akim Bryant, the station launched Nov. 25 with music and commentary from artists including Kehlani, Syd and Durand Bernarr, GAYE Magazine reports.",
+   "source": "GAYE Magazine",
+   "date": "Nov 25",
+   "url": "https://www.gayemagazine.com/pandora-launches-agenda-a-dedicated-rb-station-centering-queer-artists-culture/",
+   "photo": {
+    "url": "https://images.unsplash.com/photo-1767474365536-ef81bfa24c8a?auto=format&fit=crop&w=1200&q=80",
+    "credit": "Jacob Hodgson / Unsplash",
+    "link": "https://unsplash.com/photos/vintage-microphone-in-a-recording-studio-Jymh4EctxLs"
+   }
   },
   {
    "sec": 14,
@@ -459,13 +503,13 @@
    "url": "https://www.phillytrib.com/news/local_news/philadelphia-marathon-showcases-growing-black-running-movement/article_8e500241-e340-4072-ab25-d27ef176daa6.html"
   },
   {
-   "sec": 1,
+   "sec": 10,
    "state": "AL",
-   "title": "Three new grocery stores take aim at Birmingham-area food deserts",
-   "dek": "We All Eat Market, Carver Jones Market and Gary Avenue Market opened this year in Birmingham and Fairfield, where about 70% of city residents live in a food desert, The Birmingham Times reports.",
+   "title": "Birmingham school board extends Superintendent Mark Sullivan to 2030",
+   "dek": "The two-year extension follows a meets-expectations rating of 3.1 out of 4 and the district's record-high state report card score of 79, The Birmingham Times reports.",
    "source": "The Birmingham Times",
-   "date": "Nov 18",
-   "url": "https://www.birminghamtimes.com/2026/11/a-fresh-start-new-markets-address-food-access-in-birmingham-and-fairfield/"
+   "date": "Nov 24",
+   "url": "https://www.birminghamtimes.com/2026/11/birmingham-board-of-education-extends-superintendent-dr-mark-sullivans-contract/"
   },
   {
    "sec": 0,
@@ -534,11 +578,26 @@
  "weekly": [
   {
    "sec": 0,
-   "title": "House Democrats pick Hakeem Jeffries to be the first Black Speaker",
-   "dek": "Jeffries won the caucus nomination 251-11 in a closed-door vote Nov. 18, TheGrio reports. The full House elects its Speaker after the new Congress is sworn in Jan. 3, 2027.",
-   "source": "TheGrio",
-   "date": "Nov 18",
-   "url": "https://thegrio.com/2026/11/18/hakeem-jeffries-wins-democratic-nomination-to-become-first-black-house-speaker/"
+   "state": "GA",
+   "title": "Georgia's first Black agriculture commissioner-elect faces a backlash",
+   "dek": "Democrat Katherine Juhan-Arnold won 53% to 46%. Since then a bakery owner's son posted a racist remark and a farmer petitioned lawmakers to probe her credentials, Capital B reports.",
+   "source": "Capital B",
+   "date": "Nov 23",
+   "url": "https://capitalbnews.org/katherine-juhan-arnold-georgia-agriculture-commissioner/"
+  },
+  {
+   "sec": 3,
+   "state": "LA",
+   "title": "ESSENCE Fest will leave New Orleans in 2027 after 33 years",
+   "dek": "Owner Sundial Media Group says talks on a multiyear deal failed. Mayor Helena Moreno cited unpaid local vendors and says a Black-led festival will take its place, That Grape Juice reports.",
+   "source": "That Grape Juice",
+   "date": "Nov 25",
+   "url": "https://thatgrapejuice.net/2026/11/essence-festival-of-culture-is-leaving-new-orleans-after-33-years/",
+   "photo": {
+    "url": "https://images.unsplash.com/photo-1568693059993-a239b9cd4957?auto=format&fit=crop&w=1200&q=80",
+    "credit": "Rosie Kerr / Unsplash",
+    "link": "https://unsplash.com/photos/brown-and-gray-3-story-building-nUkxLPE5Fto"
+   }
   },
   {
    "sec": 6,
@@ -561,14 +620,6 @@
     "credit": "Polona Mitar Osolnik / Pexels",
     "link": "https://www.pexels.com/photo/interior-view-of-library-1837726/"
    }
-  },
-  {
-   "sec": 4,
-   "title": "Shot at 14, a teen spent over 475 days in a St. Louis hospital with nowhere to go",
-   "dek": "Jaloni, now 18, stayed long past medical need while in state custody. Missouri spent over $64.7 million in five years boarding kids in hospitals, KFF Health News reports via Capital B.",
-   "source": "KFF Health News via Capital B",
-   "date": "Nov 18",
-   "url": "https://capitalbnews.org/teenage-gun-violence-survivor-st-louis-foster-care/"
   }
  ],
  "monthly": [
