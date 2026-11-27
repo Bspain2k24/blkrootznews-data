@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "lead": 6,
  "stories": [
   {
@@ -149,11 +149,12 @@
   },
   {
    "sec": 6,
-   "title": "Capital B investigation: data centers flood Black areas without hearings",
-   "dek": "Majority-Black areas are twice as likely to host data centers, and projects with no hearing were approved 80% of the time, per a Harvard tool. Augusta, Ga., got a $2 billion site with no hearing.",
-   "source": "Capital B",
-   "date": "Nov 19",
-   "url": "https://capitalbnews.org/ai-data-centers-black-communities-environmental-racism/"
+   "state": "NC",
+   "title": "Raleigh renter evicted after an AI chatbot okayed a late-rent extension",
+   "dek": "Laura Mack got an email extension on nearly $4,000 in back rent from the complex's chatbot, then an eviction notice. The landlord says the bot acted without its knowledge, AfroTech reports, citing WRAL.",
+   "source": "AfroTech",
+   "date": "Nov 25",
+   "url": "https://afrotech.com/ai-chatbot-rent-eviction-north-carolina"
   },
   {
    "sec": 7,
@@ -201,19 +202,12 @@
   },
   {
    "sec": 8,
-   "img": "img-sion-james",
-   "alt": "Sion James of the Charlotte Hornets, in a white No. 4 jersey, dribbling low on the court",
-   "credit": "Getty Images",
-   "title": "Hornets guard Sion James sees his high school jersey retired in Georgia",
-   "dek": "Lanier High in Sugar Hill planned to retire his No. 1. Once a three-star recruit, he went from Tulane to Duke to the NBA, where he has played every regular-season game, Andscape reports.",
-   "source": "Andscape",
-   "date": "Nov 19",
-   "url": "https://andscape.com/features/sion-james-hornets-lanier-high-school-tulane-duke-georgia/",
-   "photo": {
-    "url": "https://images.unsplash.com/photo-1669046239665-5dcfc2ecc468?auto=format&fit=crop&w=1200&q=80",
-    "credit": "Jorgen Hendriksen / Unsplash",
-    "link": "https://unsplash.com/photos/a-basketball-hoop-in-a-large-room-8yLDFM3P9Cs"
-   }
+   "state": "OH",
+   "title": "Shedeur Sanders covers shoppers' groceries in Cleveland before Thanksgiving",
+   "dek": "The Browns quarterback paid for groceries at Dave's Market on Nov. 24 and waved more families to the registers so he could help them too, TheGrio reports, citing News 5 Cleveland.",
+   "source": "TheGrio",
+   "date": "Nov 26",
+   "url": "https://thegrio.com/2026/11/26/shedeur-sanders-pays-for-groceries-cleveland/"
   },
   {
    "sec": 9,
@@ -239,17 +233,11 @@
   },
   {
    "sec": 10,
-   "state": "MD",
-   "title": "UMES supporters sue Maryland for $6 billion over HBCU underfunding",
-   "dek": "ForUMES and students allege the state has shortchanged the HBCU land-grant school since 1890. Gov. Moore's office won't discuss the case but says it will keep investing in UMES, AfroTech reports.",
+   "title": "Student homelessness hits a record, with Black students a quarter of the total",
+   "dek": "National Center for Homeless Education data show 1.55 million homeless students in 2024-25, up 13.1% in two years; 25.4% are Black. Some states identified fewer students after aid ended, AfroTech reports.",
    "source": "AfroTech",
-   "date": "Nov 19",
-   "url": "https://afrotech.com/state-of-maryland-sued-for-underfunding-its-only-historically-black-university",
-   "photo": {
-    "url": "https://images.pexels.com/photos/1837726/pexels-photo-1837726.jpeg?auto=compress&cs=tinysrgb&w=1200",
-    "credit": "Polona Mitar Osolnik / Pexels",
-    "link": "https://www.pexels.com/photo/interior-view-of-library-1837726/"
-   }
+   "date": "Nov 25",
+   "url": "https://afrotech.com/black-and-hispanic-children-and-youth-experiencing-most-homelessness"
   },
   {
    "sec": 10,
@@ -303,15 +291,16 @@
   },
   {
    "sec": 12,
-   "title": "Grammy nominations: Beyoncé reaches 100 as Leon Thomas earns six",
-   "dek": "Raye leads with 11 nods. Yung Miami got her first and Tems is up for Best R&B Solo Performance. The ceremony airs Feb. 7 on ABC, BlackPressUSA reports.",
-   "source": "BlackPressUSA",
-   "date": "Nov 16",
-   "url": "https://blackpressusa.com/69th-grammy-nominations/",
+   "q": true,
+   "title": "Pandora launches AGENDA, an R&B station centering queer artists",
+   "dek": "Built by SiriusXM/Pandora R&B programming head Akim Bryant, the station launched Nov. 25 with music and commentary from artists including Kehlani, Syd and Durand Bernarr, GAYE Magazine reports.",
+   "source": "GAYE Magazine",
+   "date": "Nov 25",
+   "url": "https://www.gayemagazine.com/pandora-launches-agenda-a-dedicated-rb-station-centering-queer-artists-culture/",
    "photo": {
-    "url": "https://images.pexels.com/photos/1763068/pexels-photo-1763068.jpeg?auto=compress&cs=tinysrgb&w=1200",
-    "credit": "Sebastian Ervi / Pexels",
-    "link": "https://www.pexels.com/photo/people-standing-on-stage-in-front-of-crowd-1763068/"
+    "url": "https://images.unsplash.com/photo-1767474365536-ef81bfa24c8a?auto=format&fit=crop&w=1200&q=80",
+    "credit": "Jacob Hodgson / Unsplash",
+    "link": "https://unsplash.com/photos/vintage-microphone-in-a-recording-studio-Jymh4EctxLs"
    }
   },
   {
@@ -360,16 +349,12 @@
   },
   {
    "sec": 15,
-   "title": "Hanifa returns from its pause with an anniversary collection",
-   "dek": "Founder Anifa Mvuemba told TheGrio the brand added outside customer service, new logistics and a manufacturing partner after delayed orders. The new collection launched Nov. 18.",
-   "source": "TheGrio",
-   "date": "Nov 12",
-   "url": "https://thegrio.com/2026/11/12/hanifas-anifa-mvuemba-on-the-power-of-pressing-pause-its-okay-to-stop/",
-   "photo": {
-    "url": "https://images.pexels.com/photos/39548/pexels-photo-39548.jpeg?auto=compress&cs=tinysrgb&w=1200",
-    "credit": "Pixabay / Pexels",
-    "link": "https://www.pexels.com/photo/brass-needle-through-red-cloth-button-39548/"
-   }
+   "state": "NY",
+   "title": "Melanin Beauty Awards honor Chaka Khan, Jackie Aina and Shontay Lundy",
+   "dek": "MadameNoire and HelloBeautiful held their first in-person edition Nov. 18 in New York. Black Girl Sunscreen's Lundy was named beauty founder of the year, MadameNoire reports of its own event.",
+   "source": "MadameNoire",
+   "date": "Nov 23",
+   "url": "https://madamenoire.com/1698110/melanin-beauty-awards-2026-recap/"
   },
   {
    "sec": 15,
@@ -470,20 +455,6 @@
    "url": "https://www.gayemagazine.com/tevon-blair-is-building-hbcu-political-power-beyond-election-day/"
   },
   {
-   "sec": 12,
-   "q": true,
-   "title": "Pandora launches AGENDA, an R&B station centering queer artists",
-   "dek": "Built by SiriusXM/Pandora R&B programming head Akim Bryant, the station launched Nov. 25 with music and commentary from artists including Kehlani, Syd and Durand Bernarr, GAYE Magazine reports.",
-   "source": "GAYE Magazine",
-   "date": "Nov 25",
-   "url": "https://www.gayemagazine.com/pandora-launches-agenda-a-dedicated-rb-station-centering-queer-artists-culture/",
-   "photo": {
-    "url": "https://images.unsplash.com/photo-1767474365536-ef81bfa24c8a?auto=format&fit=crop&w=1200&q=80",
-    "credit": "Jacob Hodgson / Unsplash",
-    "link": "https://unsplash.com/photos/vintage-microphone-in-a-recording-studio-Jymh4EctxLs"
-   }
-  },
-  {
    "sec": 14,
    "q": true,
    "img": "img-pvalley",
@@ -494,6 +465,16 @@
    "source": "GAYE Magazine",
    "date": "Nov 21",
    "url": "https://www.gayemagazine.com/toni-bryce-talks-p-valley-season-3-black-trans-visibility-embracing-her-body/"
+  },
+  {
+   "sec": 14,
+   "q": true,
+   "state": "CA",
+   "title": "Lena Waithe's Around the Table readings spotlight Black masc writers",
+   "dek": "Waithe's new monthly Los Angeles series stages original scripts as live readings. GAYE Magazine profiles her chief of staff, Brooklynn Fields, whose co-written script the LET OUT was read Nov. 19.",
+   "source": "GAYE Magazine",
+   "date": "Nov 19",
+   "url": "https://www.gayemagazine.com/lena-waithe-makes-room-for-a-more-black-masc-hollywood-featuring-brooklynn-fields-as-a-writer-to-watch/"
   }
  ],
  "regional": [
@@ -552,13 +533,13 @@
    "url": "https://www.stlamerican.com/business/business-news/custodians-face-pay-cuts-under-slu-outsourcing/"
   },
   {
-   "sec": 0,
+   "sec": 2,
    "state": "TX",
-   "title": "Houston council push to write ICE limits into law hits a legal wall",
-   "dek": "Three members want the mayor's limits on police help to ICE made into law, but the city attorney says a state law blocks a vote. The Houston Defender notes the area's 128,000 Black immigrants.",
-   "source": "Houston Defender",
-   "date": "Nov 19",
-   "url": "https://defendernetwork.com/news/local-state/houston-council-codifies-ice-restrictions/"
+   "title": "Dallas builder Royce Colley opens doors for aspiring Black builders",
+   "dek": "Dallas Weekly's Best of Black Dallas profile notes Black owners were 1.7% of U.S. construction firms with employees in 2022, per Brookings and Census data cited in the piece.",
+   "source": "Dallas Weekly",
+   "date": "Nov 25",
+   "url": "https://dallasweekly.com/2026/11/building-black-owned-construction-wealth/"
   },
   {
    "sec": 8,
@@ -570,13 +551,13 @@
    "url": "https://defendernetwork.com/sports/college-sports/texas-southern-fires-coach-dishman/"
   },
   {
-   "sec": 0,
+   "sec": 1,
    "state": "CA",
-   "title": "Former state Sen. Kevin Murray, who fought racial profiling, dies at 66",
-   "dek": "The ex-Black Caucus chair, who authored a bill on racial profiling and later led Skid Row's Weingart Center, died Nov. 10, California Black Media reports. No cause was disclosed.",
-   "source": "California Black Media via The San Diego Voice & Viewpoint",
-   "date": "Nov 18",
-   "url": "https://sdvoice.info/kevin-murray-california-lawmaker-who-championed-civil-rights-clean-energy-and-urban-renewal-dies-at-66/"
+   "title": "Brotherhood Crusade hands out Thanksgiving meals in the rain in South L.A.",
+   "dek": "The group's drive-through Grab and Go on Nov. 19 at Algin Sutton Recreation Center gave out turkeys and meal items, with gift cards for the first 500 cars, the Los Angeles Sentinel reports.",
+   "source": "Los Angeles Sentinel",
+   "date": "Nov 25",
+   "url": "https://lasentinel.net/rain-couldnt-stop-the-giving-brotherhood-crusade-brings-thanksgiving-cheer-to-l-a-families.html"
   },
   {
    "sec": 10,
@@ -616,26 +597,20 @@
    }
   },
   {
-   "sec": 6,
-   "title": "Capital B investigation: data centers flood Black areas without hearings",
-   "dek": "Majority-Black areas are twice as likely to host data centers, and projects with no hearing were approved 80% of the time, per a Harvard tool. Augusta, Ga., got a $2 billion site with no hearing.",
-   "source": "Capital B",
-   "date": "Nov 19",
-   "url": "https://capitalbnews.org/ai-data-centers-black-communities-environmental-racism/"
+   "sec": 4,
+   "title": "Federal cuts halt Alzheimer's research focused on Black Americans",
+   "dek": "NIH ended a four-year Pittsburgh study in the Hill and Homewood near its final year, and an Emory study on racism's effects needs $2.3 million to finish, TheGrio reports.",
+   "source": "TheGrio",
+   "date": "Nov 23",
+   "url": "https://thegrio.com/2026/11/23/black-alzheimers-research-funding-cuts/"
   },
   {
-   "sec": 10,
-   "state": "MD",
-   "title": "UMES supporters sue Maryland for $6 billion over HBCU underfunding",
-   "dek": "ForUMES and students allege the state has shortchanged the HBCU land-grant school since 1890. Gov. Moore's office won't discuss the case but says it will keep investing in UMES, AfroTech reports.",
+   "sec": 13,
+   "title": "Greenwood Bank closes all accounts and points members to DreamFi",
+   "dek": "Cards and transfers stopped after Nov. 19. Deposits stay at Coastal Community Bank until members move them or get a check; Ben Crump's DreamFi is the new partner, AfroTech reports.",
    "source": "AfroTech",
-   "date": "Nov 19",
-   "url": "https://afrotech.com/state-of-maryland-sued-for-underfunding-its-only-historically-black-university",
-   "photo": {
-    "url": "https://images.pexels.com/photos/1837726/pexels-photo-1837726.jpeg?auto=compress&cs=tinysrgb&w=1200",
-    "credit": "Polona Mitar Osolnik / Pexels",
-    "link": "https://www.pexels.com/photo/interior-view-of-library-1837726/"
-   }
+   "date": "Nov 23",
+   "url": "https://afrotech.com/greenwood-bank-announced-all-accounts-would-close-nov-19"
   }
  ],
  "monthly": [
