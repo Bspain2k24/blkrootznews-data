@@ -338,11 +338,12 @@
   {
    "sec": 14,
    "pin": true,
+   "top": true,
    "img": "img-14th",
    "alt": "A still from 14th: two women talk across a desk in a wood-paneled office beside an American flag",
    "credit": "Netflix / ARRAY",
-   "title": "Ava DuVernay's 14th, her follow-up to 13th, opens Nov. 27",
-   "dek": "The documentary traces more than 150 years of the 14th Amendment through 50-plus interviews. It hits select theaters Nov. 27 and Netflix Dec. 4 after closing the New York Film Festival.",
+   "title": "Ava DuVernay's 14th is in select theaters now and streams on Netflix Dec. 4",
+   "dek": "Her follow-up to 13th traces more than 150 years of the 14th Amendment through 50-plus interviews. It opened in select theaters Nov. 27 after closing the New York Film Festival.",
    "source": "Deadline",
    "date": "Jul 16",
    "url": "https://deadline.com/2026/07/ava-duvernay-netflix-citizenship-documentary-14-amendment-1236983852/"
