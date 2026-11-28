@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "lead": 6,
  "stories": [
   {
@@ -13,21 +13,26 @@
   },
   {
    "sec": 0,
-   "state": "MS",
-   "title": "Rejected ballots leave Tougaloo and Jackson State students shut out",
-   "dek": "Hundreds of provisional ballots from the two HBCUs went uncounted, many over county mix-ups on Tougaloo's two-county campus. Hinds County rejected over half of its 2,426, Capital B reports.",
+   "state": "IN",
+   "title": "Indiana Democrats vow to tackle costs and SNAP cuts in the new Congress",
+   "dek": "Reps. Andre Carson, Frank Mrvan and J.D. Ford say affordability and food aid top their list. About 82,000 fewer Hoosiers got SNAP in June than last October, Capital B Gary reports, citing state data.",
    "source": "Capital B",
-   "date": "Nov 20",
-   "url": "https://capitalbnews.org/mississippi-senate-tougaloo-student-voters/"
+   "date": "Nov 25",
+   "url": "https://gary.capitalbnews.org/congress-democrats-assistance-programs/",
+   "photo": {
+    "url": "https://images.unsplash.com/photo-1751151950056-cfaf797f4653?auto=format&fit=crop&w=1200&q=80",
+    "credit": "Zoshua Colah / Unsplash",
+    "link": "https://unsplash.com/photos/shopping-cart-filled-in-a-large-grocery-store-421nTYTZLSI"
+   }
   },
   {
    "sec": 1,
-   "state": "MD",
-   "title": "Black-run food bank feeds thousands as federal cuts hit Prince George's",
-   "dek": "The StoreHouse says it serves about 6,000 families a month. A local pastor ties rising need to federal job losses, citing Capital Area Food Bank data on county hunger, The Washington Informer reports.",
-   "source": "The Washington Informer",
-   "date": "Nov 20",
-   "url": "https://www.washingtoninformer.com/prince-georges-food-insecurity-federal-firings/"
+   "state": "MO",
+   "title": "St. Louis nonprofit has helped 440 Black families buy homes",
+   "dek": "Fair Access to Mortgages gives $3,000 to $8,000 toward down payments and closing costs. It says families who've owned a year gained about $30,000 in net worth on average, The St. Louis American reports.",
+   "source": "The St. Louis American",
+   "date": "Nov 25",
+   "url": "https://www.stlamerican.com/news/celebrating-400-black-homeowners/"
   },
   {
    "sec": 1,
@@ -39,15 +44,15 @@
   },
   {
    "sec": 2,
-   "title": "Brian Rikuda, a past BET reality show winner, will head the network",
-   "dek": "Rikuda won BET's The Ultimate Hustler in 2005 and rejoined BET in 2022. He will report to OWN president Tina Perry under Skydance's cable restructuring, Black Enterprise reports, citing Deadline.",
-   "source": "Black Enterprise",
-   "date": "Nov 20",
-   "url": "https://www.blackenterprise.com/brian-rikuda-head-bet/",
+   "title": "Christin Marie Nichols on growing a TikTok Shop jewelry hit",
+   "dek": "Nichols says listening to customers built Christin Marie Studio, which AfroTech calls one of TikTok Shop's top-selling jewelry brands. She says it has passed its goals, mostly through organic growth.",
+   "source": "AfroTech",
+   "date": "Nov 27",
+   "url": "https://afrotech.com/christin-marie-nichols-grew-one-of-tiktok-shops-top-jewelry-brands",
    "photo": {
-    "url": "https://images.pexels.com/photos/1870438/pexels-photo-1870438.jpeg?auto=compress&cs=tinysrgb&w=1200",
-    "credit": "Nino Souza / Pexels",
-    "link": "https://www.pexels.com/photo/man-standing-on-stage-holding-microphone-1870438/"
+    "url": "https://images.unsplash.com/photo-1611107683227-e9060eccd846?auto=format&fit=crop&w=1200&q=80",
+    "credit": "Syed F Hashemi / Unsplash",
+    "link": "https://unsplash.com/photos/gold-chain-necklace-on-white-surface-aldDZePniqg"
    }
   },
   {
@@ -94,11 +99,11 @@
   },
   {
    "sec": 4,
-   "title": "Obama urges incoming House Democrats to push further on health care",
-   "dek": "At a Nov. 18 meeting, Obama said restoring expired ACA subsidies alone is not enough. Black HealthCare.gov sign-ups fell from about 2.7 million to 1.2 million, per figures Word In Black cites.",
-   "source": "Word In Black",
-   "date": "Nov 20",
-   "url": "https://wordinblack.com/2026/11/obama-jeffries-and-democrats-must-push-further-on-healthcare-in-2027/"
+   "title": "The Black-white death rate gap has narrowed sharply since 1993, study finds",
+   "dek": "An American Cancer Society-led study in Annals of Internal Medicine found excess deaths among Black adults fell 56% for men and 68% for women, though gaps in maternal deaths and homicide persist.",
+   "source": "American Cancer Society",
+   "date": "Nov 23",
+   "url": "https://pressroom.cancer.org/decrease-in-black-white-mortality-gap"
   },
   {
    "sec": 4,
@@ -202,12 +207,16 @@
   },
   {
    "sec": 8,
-   "state": "OH",
-   "title": "Shedeur Sanders covers shoppers' groceries in Cleveland before Thanksgiving",
-   "dek": "The Browns quarterback paid for groceries at Dave's Market on Nov. 24 and waved more families to the registers so he could help them too, TheGrio reports, citing News 5 Cleveland.",
-   "source": "TheGrio",
-   "date": "Nov 26",
-   "url": "https://thegrio.com/2026/11/26/shedeur-sanders-pays-for-groceries-cleveland/"
+   "title": "Three HBCU stars are Walter Payton Award finalists",
+   "dek": "Alcorn State QB Jaylon Tolbert, South Carolina State QB Keely Watson and Southern RB Trey Holly are among 30 finalists for the top FCS offensive honor named by Stats Perform, HBCU Gameday reports.",
+   "source": "HBCU Gameday",
+   "date": "Nov 25",
+   "url": "https://hbcugameday.com/2026/11/25/three-hbcu-football-stars-named-finalists-for-walter-payton-award/",
+   "photo": {
+    "url": "https://images.unsplash.com/photo-1549333580-4cb2c5c8e421?auto=format&fit=crop&w=1200&q=80",
+    "credit": "Christopher Alvarenga / Unsplash",
+    "link": "https://unsplash.com/photos/a-stadium-lit-up-at-night-with-a-lot-of-lights-GCEAqghDxRo"
+   }
   },
   {
    "sec": 9,
@@ -241,25 +250,25 @@
   },
   {
    "sec": 10,
-   "state": "GA",
-   "title": "Morehouse orders an outside review of how it handles sexual misconduct",
-   "dek": "After campus police arrested a student on a rape allegation Nov. 13, President F. DuBois Bowman announced a Title IX review and a task force on student safety, Capital B Atlanta reports.",
-   "source": "Capital B",
-   "date": "Nov 20",
-   "url": "https://atlanta.capitalbnews.org/morehouse-student-arrested-amid-growing-concerns-over-campus-sexual-violence/"
+   "state": "AR",
+   "title": "UAPB students win $15K for a Gen Z money app",
+   "dek": "Three University of Arkansas at Pine Bluff students took the top prize in the first Future of XYZ HBCU Innovation Challenge for Brix, a financial literacy app for first-gen students, Black Enterprise reports.",
+   "source": "Black Enterprise",
+   "date": "Nov 21",
+   "url": "https://www.blackenterprise.com/hbcu-students-secure-15k-for-app/"
   },
   {
    "sec": 11,
-   "state": "TN",
-   "title": "Tennessee State builds the only HBCU mining engineering program",
-   "dek": "TSU's minor, funded by an $800,000 Energy Department grant, has about 15 students and could become a major, US Black Engineer reports.",
+   "state": "AL",
+   "title": "Tuskegee engineers win an HBCU energy hackathon with a solar resilience hub",
+   "dek": "Their Red Tail Energy plan would turn a campus hall into an outage shelter with solar and battery storage, winning $7,500 at the American Association of Blacks in Energy event, US Black Engineer reports.",
    "source": "US Black Engineer",
-   "date": "Nov 13",
-   "url": "https://www.blackengineer.com/news-2/doe-invests-in-tsu-mining-program/",
+   "date": "Nov 25",
+   "url": "https://www.blackengineer.com/news-2/students-showcase-energy-innovation-at-hackathon/",
    "photo": {
-    "url": "https://images.pexels.com/photos/2986508/pexels-photo-2986508.jpeg?auto=compress&cs=tinysrgb&w=1200",
-    "credit": "Ricky Esquivel / Pexels",
-    "link": "https://www.pexels.com/photo/brown-rocks-2986508/"
+    "url": "https://images.unsplash.com/photo-1762960504300-1bcbdd8d9e53?auto=format&fit=crop&w=1200&q=80",
+    "credit": "Yuma Solar / Unsplash",
+    "link": "https://unsplash.com/photos/two-solar-panels-on-a-rooftop-with-trees-9ND1lAljXHU"
    }
   },
   {
@@ -354,7 +363,12 @@
    "dek": "MadameNoire and HelloBeautiful held their first in-person edition Nov. 18 in New York. Black Girl Sunscreen's Lundy was named beauty founder of the year, MadameNoire reports of its own event.",
    "source": "MadameNoire",
    "date": "Nov 23",
-   "url": "https://madamenoire.com/1698110/melanin-beauty-awards-2026-recap/"
+   "url": "https://madamenoire.com/1698110/melanin-beauty-awards-2026-recap/",
+   "photo": {
+    "url": "https://images.unsplash.com/photo-1500840216050-6ffa99d75160?auto=format&fit=crop&w=1200&q=80",
+    "credit": "Jamie Street / Unsplash",
+    "link": "https://unsplash.com/photos/assorted-makeup-brushes-aMuq-Xz7R_M"
+   }
   },
   {
    "sec": 15,
@@ -423,12 +437,12 @@
   },
   {
    "sec": 18,
-   "state": "NC",
-   "title": "Raleigh's Black-owned kids' bookstore Liberation Station is thriving again",
-   "dek": "Victoria Scott-Miller reopened on Hill St. in Dec. 2025 after threats forced a 2024 closure. The store now runs food pantries and Braille and LEGO programs, ABC11 reports.",
-   "source": "ABC11",
-   "date": "Nov 13",
-   "url": "https://abc11.com/post/ncs-black-owned-childrens-bookstore-thriving-raleigh-comeback/20038352/"
+   "state": "NY",
+   "title": "Brooklyn's Free Black Women's Library grows amid book bans",
+   "dek": "OlaRonke Akinmowo's book-for-a-book library now holds 5,000-plus titles by Black women and nonbinary writers and has launched its first paid fellowship, TheGrio reports.",
+   "source": "TheGrio",
+   "date": "Nov 25",
+   "url": "https://thegrio.com/2026/11/25/in-an-era-of-book-bans-and-dei-rollbacks-the-free-black-womens-library-is-thriving/"
   },
   {
    "sec": 18,
@@ -454,13 +468,18 @@
    }
   },
   {
-   "sec": 2,
+   "sec": 7,
    "q": true,
-   "title": "Former PragerU host Xaviaer DuRousseau sues, alleging racism and anti-gay abuse",
-   "dek": "LGBTQ Nation reports the Black gay conservative influencer filed in California Superior Court, claiming discrimination, retaliation and wrongful termination. PragerU denies the allegations.",
-   "source": "LGBTQ Nation",
-   "date": "Nov 13",
-   "url": "https://www.lgbtqnation.com/2026/11/black-gay-conservative-who-claimed-homophobia-were-rare-sues-for-homophobia/"
+   "title": "Streamer Wardrobe Winter earns two Streamer Awards nominations",
+   "dek": "The openly gay Twitch streamer was nominated for Best Mainstream Collab, for a viral stream with Lizzo, and Best Vertical Live Streamer. He did not win either, GAYE Magazine reports.",
+   "source": "GAYE Magazine",
+   "date": "Nov 14",
+   "url": "https://www.gayemagazine.com/wardrobe-winter-earns-two-nominations-at-the-2026-streamer-awards/",
+   "photo": {
+    "url": "https://images.unsplash.com/photo-1552820081-00b3187b7a57?auto=format&fit=crop&w=1200&q=80",
+    "credit": "Maik Jonietz / Unsplash",
+    "link": "https://unsplash.com/photos/focus-photography-of-gray-condenser-microphone-and-pop-filter-2mQSmmge7t8"
+   }
   },
   {
    "sec": 10,
